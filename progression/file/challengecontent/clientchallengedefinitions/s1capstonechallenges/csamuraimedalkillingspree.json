@@ -1,0 +1,18 @@
+{
+  "Description": "Earn any Killing Spree Medal in PvP",
+  "Difficulty": "mythic",
+  "Category": "Capstone",
+  "Reward": {
+    "InventoryItems": [],
+    "OperationExperience": 500,
+    "InventoryRewards": [
+      {
+        "InventoryItemPath": "Inventory/Armor/Coatings/002-001-olympus-59e31f7d.json",
+        "Amount": 1,
+        "Type": "ArmorCoating"
+      }
+    ]
+  },
+  "ThresholdForSuccess": 1,
+  "Title": "Peerless Warrior"
+}

@@ -1,0 +1,18 @@
+{
+  "Description": "Earn Double Kills in PvP",
+  "Difficulty": "mythic",
+  "Category": "Capstone",
+  "Reward": {
+    "InventoryItems": [],
+    "OperationExperience": 500,
+    "InventoryRewards": [
+      {
+        "InventoryItemPath": "Inventory/Weapon/coatings/203-206-olympus-d8e29ecf.json",
+        "Amount": 1,
+        "Type": "WeaponCoating"
+      }
+    ]
+  },
+  "ThresholdForSuccess": 3,
+  "Title": "Buddy System"
+}

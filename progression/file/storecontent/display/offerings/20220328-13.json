@@ -1,0 +1,12 @@
+{
+  "Title": "Ploan",
+  "Description": "Built to last.",
+  "Quality": "Rare",
+  "WidthHint": 2,
+  "HeightHint": 1,
+  "FlairText": "",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "ObjectImagePath": "progression/StoreContent/Offerings/s2_Ploan.png",
+  "HasFlair": false
+}
