@@ -1,0 +1,12 @@
+{
+  "Title": "Cambion",
+  "Description": "Ready for the hunt.",
+  "Quality": "Legendary",
+  "WidthHint": 2,
+  "HeightHint": 2,
+  "FlairText": "",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "ObjectImagePath": "progression/StoreContent/Offerings/cambion.png",
+  "HasFlair": null
+}

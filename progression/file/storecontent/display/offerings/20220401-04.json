@@ -1,0 +1,22 @@
+{
+  "Title": "Eventide Infantry",
+  "Description": "A selection of armor commonly used by UNSC ground troops in the Final War.\u00a0",
+  "Quality": "Epic",
+  "WidthHint": 2,
+  "HeightHint": 4,
+  "FlairText": "",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "ObjectImagePath": "progression/StoreContent/Offerings/s2_Eventide_Infantry.png",
+  "HasFlair": null,
+  "HasGleam": null,
+  "IsOnSale": null,
+  "SalePercentage": null,
+  "IsEventItem": null,
+  "IsNew": null,
+  "FlairBackgroundColorOverrideRGB": null,
+  "FlairTextColorOverrideRGB": null,
+  "TitleColorOverrideRGB": null,
+  "PriceColorOverrideRGB": null,
+  "PriceShadowColorOverrideRGB": null
+}

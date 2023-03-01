@@ -1,0 +1,22 @@
+{
+  "Title": "Neon End Credits",
+  "Description": "You can't outrun inevitability. At least, not forever.",
+  "Quality": "Epic",
+  "WidthHint": 2,
+  "HeightHint": 1,
+  "FlairText": "",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "ObjectImagePath": "progression/StoreContent/Offerings/store_NeonEndCredits_4x2.png",
+  "HasFlair": null,
+  "HasGleam": null,
+  "IsOnSale": null,
+  "SalePercentage": null,
+  "IsEventItem": null,
+  "IsNew": null,
+  "FlairBackgroundColorOverrideRGB": null,
+  "FlairTextColorOverrideRGB": null,
+  "TitleColorOverrideRGB": null,
+  "PriceColorOverrideRGB": null,
+  "PriceShadowColorOverrideRGB": null
+}

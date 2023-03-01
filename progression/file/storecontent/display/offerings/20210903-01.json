@@ -1,0 +1,12 @@
+{
+  "Title": "Chibi Blue Team",
+  "Description": "Those Baby Blues.",
+  "Quality": "Rare",
+  "WidthHint": 2,
+  "HeightHint": 1,
+  "FlairText": "Daily",
+  "FlairIconPath": "progression/StoreContent/FlairIcons/RitualIconFlair.png",
+  "FlairBackgroundPath": "progression/StoreContent/FlairBackgrounds/RitualBackgroundFlair.png",
+  "HasFlair": true,
+  "ObjectImagePath": "progression/StoreContent/Offerings/S1_Chibi_Blue_Team_v3.png"
+}

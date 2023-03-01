@@ -1,0 +1,12 @@
+{
+  "Title": "Trench Knife",
+  "Description": "When you wake up with a pack of corpse-rats nibbling at your toes you'll wish you had one.",
+  "Quality": "Epic",
+  "WidthHint": 2,
+  "HeightHint": 1,
+  "FlairText": "",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "ObjectImagePath": "progression/StoreContent/Offerings/trench_knife.png",
+  "HasFlair": false
+}

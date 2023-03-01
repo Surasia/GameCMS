@@ -1,0 +1,22 @@
+{
+  "Title": "Neptune's Depths",
+  "Description": "Optimized fluid dynamics.",
+  "Quality": "Rare",
+  "WidthHint": 2,
+  "HeightHint": 2,
+  "FlairText": "",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "HasFlair": false,
+  "ObjectImagePath": "progression/StoreContent/Offerings/store_NeptunesDepths_2x2.png",
+  "HasGleam": null,
+  "IsOnSale": null,
+  "SalePercentage": null,
+  "IsEventItem": null,
+  "IsNew": null,
+  "FlairBackgroundColorOverrideRGB": null,
+  "FlairTextColorOverrideRGB": null,
+  "TitleColorOverrideRGB": null,
+  "PriceColorOverrideRGB": null,
+  "PriceShadowColorOverrideRGB": null
+}

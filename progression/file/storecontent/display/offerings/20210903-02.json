@@ -1,0 +1,22 @@
+{
+  "Title": "Chibi Battle Bros",
+  "Description": "Pint-sized Powerhouses.",
+  "Quality": "Rare",
+  "WidthHint": 2,
+  "HeightHint": 1,
+  "FlairText": "",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "HasFlair": true,
+  "ObjectImagePath": "progression/StoreContent/Offerings/S1_Chibi_Brothers.png",
+  "HasGleam": null,
+  "IsOnSale": null,
+  "SalePercentage": null,
+  "IsEventItem": null,
+  "IsNew": null,
+  "FlairBackgroundColorOverrideRGB": null,
+  "FlairTextColorOverrideRGB": null,
+  "TitleColorOverrideRGB": null,
+  "PriceColorOverrideRGB": null,
+  "PriceShadowColorOverrideRGB": null
+}

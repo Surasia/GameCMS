@@ -1,0 +1,12 @@
+{
+  "Title": "Legacy of War",
+  "Description": "Blood and darkness follows in your wake.",
+  "Quality": "Epic",
+  "WidthHint": 4,
+  "HeightHint": 2,
+  "FlairText": "",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "ObjectImagePath": "progression/StoreContent/Offerings/s2_hcs_legacy_of_war.png",
+  "HasFlair": null
+}

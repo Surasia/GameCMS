@@ -1,0 +1,12 @@
+{
+  "Title": "Cordovan Thunder",
+  "Description": "They have chosen the path of violence.",
+  "Quality": "Epic",
+  "WidthHint": 4,
+  "HeightHint": 2,
+  "FlairText": "",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "ObjectImagePath": "progression/StoreContent/Offerings/cordovan_thunder.png",
+  "HasFlair": null
+}

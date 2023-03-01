@@ -1,0 +1,12 @@
+{
+  "Title": "Watermelon Slice",
+  "Description": "Nutritious, yet delicious.",
+  "Quality": "Epic",
+  "WidthHint": 2,
+  "HeightHint": 1,
+  "FlairText": "",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "ObjectImagePath": "progression/StoreContent/Offerings/s2_Watermelon_Slice.png",
+  "HasFlair": false
+}

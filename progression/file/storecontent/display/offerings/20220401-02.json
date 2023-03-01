@@ -1,0 +1,12 @@
+{
+  "Title": "Hyperion Test Group",
+  "Description": "Hyperion deathblossom missiles were not the war-ending superweapon that was promised, but they came close.",
+  "Quality": "Rare",
+  "WidthHint": 2,
+  "HeightHint": 1,
+  "FlairText": "",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "ObjectImagePath": "progression/StoreContent/Offerings/s2_Hyperion_Test_Group.png",
+  "HasFlair": false
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Pop Weapon Set",
+  "Description": "Life and the art of imitation.",
+  "Quality": "Epic",
+  "WidthHint": 2,
+  "HeightHint": 4,
+  "FlairText": "Weekly",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "ObjectImagePath": "progression/StoreContent/Offerings/S1_PopWeaponCoatings.png",
+  "HasFlair": null
+}

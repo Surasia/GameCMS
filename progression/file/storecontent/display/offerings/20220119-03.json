@@ -1,0 +1,22 @@
+{
+  "Title": "FIREFALL",
+  "Description": "A radical offshoot of other ODST armor development projects at Cascade, the FIREFALL is the first component of an ensemble that aims to eliminate the need for drop pods in Spartan orbital insertions.",
+  "Quality": "Legendary",
+  "WidthHint": 2,
+  "HeightHint": 2,
+  "FlairText": "",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "ObjectImagePath": "progression/StoreContent/Offerings/S2_Store_Firefall_2x2.png",
+  "HasFlair": null,
+  "HasGleam": null,
+  "IsOnSale": null,
+  "SalePercentage": null,
+  "IsEventItem": null,
+  "IsNew": null,
+  "FlairBackgroundColorOverrideRGB": null,
+  "FlairTextColorOverrideRGB": null,
+  "TitleColorOverrideRGB": null,
+  "PriceColorOverrideRGB": null,
+  "PriceShadowColorOverrideRGB": null
+}

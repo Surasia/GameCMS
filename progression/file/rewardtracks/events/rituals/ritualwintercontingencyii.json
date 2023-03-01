@@ -1,0 +1,184 @@
+{
+  "TrackId": "ritualWinterContingencyII",
+  "XpPerRank": 1,
+  "Ranks": [
+    {
+      "Rank": 1,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "Inventory/spartan/backdropimages/103-000-ui-s2-backgro-89a27550.json",
+            "Amount": 1,
+            "Type": "SpartanBackdropImage"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 2,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "Inventory/vehicle/emblems/405-305-575a07da.json",
+            "Amount": 1,
+            "Type": "VehicleEmblem"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 3,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "Inventory/Weapon/coatings/203-202-olympus-d9a6b15e.json",
+            "Amount": 1,
+            "Type": "WeaponCoating"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 4,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "inventory/weapon/coatings/203-207-olympus-d9a6b15e.json",
+            "Amount": 1,
+            "Type": "WeaponCoating"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 5,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "Inventory/armor/chestattachments/001-001-olympus-6db7ca2e.json",
+            "Amount": 1,
+            "Type": "ArmorChestAttachment"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 6,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "Inventory/Weapon/Emblems/205-201-575a07da.json",
+            "Amount": 1,
+            "Type": "WeaponEmblem"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 7,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "Inventory/Weapon/coatings/203-200-olympus-d9a6b15e.json",
+            "Amount": 1,
+            "Type": "WeaponCoating"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 8,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "Inventory/armor/visors/012-001-d627c4f2.json",
+            "Amount": 1,
+            "Type": "ArmorVisor"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 9,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "Inventory/spartan/emblems/104-001-seasonal-wint-575a07da.json",
+            "Amount": 1,
+            "Type": "SpartanEmblem"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 10,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "Inventory/armor/helmetattachments/004-001-olympus-b55440a6.json",
+            "Amount": 1,
+            "Type": "ArmorHelmetAttachment"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    }
+  ],
+  "Name": "Winter Contingency II",
+  "Description": "",
+  "OperationNumber": 2,
+  "DateRange": "December 20th, 2022 - January 03rd, 2023",
+  "IsRitual": true,
+  "SummaryImagePath": "progression/RewardTracks/HIMPS2-5_EVENT_WC2_UI_BP_PROGRESSION_CARD_346x1068.png",
+  "WeekNumber": null,
+  "BackgroundImagePath": ""
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Midnight Wrath",
+  "Description": "Any color you want, as long as it's black.",
+  "Quality": "Epic",
+  "WidthHint": 2,
+  "HeightHint": 2,
+  "FlairText": "Weekly",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "ObjectImagePath": "progression/StoreContent/Offerings/S1_MidnightWrath.png",
+  "HasFlair": null
+}
