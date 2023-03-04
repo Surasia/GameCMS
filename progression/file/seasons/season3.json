@@ -1,0 +1,14 @@
+{
+  "DateRange": "March 03, 2020 - October 15, 2030",
+  "Name": "Noble Sacrifice",
+  "Logo": "seasons/Logo/Season1.jpg",
+  "Number": 1,
+  "Description": "Because of you, we found Halo, unlocked its secrets, shattered our enemy's resolve. Our victory - your victory - was so close. I wish you could have lived to see it.",
+  "SummaryBackgroundPath": "progression/ScreenBackgrounds/ProgressionSummaryBackgroundTemp.png",
+  "ChallengesBackgroundPath": "progression/ScreenBackgrounds/ProgressionChallengesBackgroundTemp.png",
+  "BattlePassLogoImage": "progression/ScreenBackgrounds/ProgressionRewardsBackgroundTemp.png",
+  "SeasonLogoImage": "progression/ScreenBackgrounds/ProgressionRewardsBackgroundTemp.png",
+  "RitualLogoImage": "progression/ScreenBackgrounds/ProgressionRewardsBackgroundTemp.png",
+  "StorefrontBackgroundImage": "progression/ScreenBackgrounds/ProgressionRewardsBackgroundTemp.png",
+  "CardBackgroundImage": "progression/ScreenBackgrounds/ProgressionRewardsBackgroundTemp.png"
+}
