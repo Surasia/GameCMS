@@ -1,0 +1,14 @@
+{
+  "DateRange": "January 01, 2020 - March 02, 2020",
+  "Name": "Some Other Name",
+  "Logo": "seasons/Logo/Season2.jpg",
+  "Number": 2,
+  "Description": "Spartans are cool.",
+  "SummaryBackgroundPath": "progression/ScreenBackgrounds/ProgressionSummaryBackgroundTemp.png",
+  "ChallengesBackgroundPath": "progression/ScreenBackgrounds/ProgressionChallengesBackgroundTemp.png",
+  "BattlePassLogoImage": "progression/ScreenBackgrounds/ProgressionRewardsBackgroundTemp.png",
+  "SeasonLogoImage": "progression/ScreenBackgrounds/ProgressionRewardsBackgroundTemp.png",
+  "RitualLogoImage": "progression/ScreenBackgrounds/ProgressionRewardsBackgroundTemp.png",
+  "StorefrontBackgroundImage": "progression/ScreenBackgrounds/ProgressionRewardsBackgroundTemp.png",
+  "CardBackgroundImage": "progression/ScreenBackgrounds/ProgressionRewardsBackgroundTemp.png"
+}
