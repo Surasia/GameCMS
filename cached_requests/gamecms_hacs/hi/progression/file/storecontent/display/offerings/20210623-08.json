@@ -1,0 +1,11 @@
+{
+  "Title": "Purchase 10 levels",
+  "Description": "Buy one level worth of XP for your active Battle Pass. Note that any XP remaining after completing a Battle Pass will be discarded.",
+  "Quality": "Common",
+  "WidthHint": 3,
+  "HeightHint": 4,
+  "FlairText": "",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "ObjectImagePath": "progression/StoreContent/Offerings/XP_64x.png"
+}

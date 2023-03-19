@@ -1,0 +1,12 @@
+{
+  "Title": "Sixth Gate Loyalty",
+  "Description": "A sacrifice in any age. Requires the Yoroi armor core earned in the Fracture: Tenrai event.",
+  "Quality": "Rare",
+  "WidthHint": 2,
+  "HeightHint": 1,
+  "FlairText": "Daily",
+  "FlairIconPath": "progression/StoreContent/FlairIcons/RitualIconFlair.png",
+  "FlairBackgroundPath": "progression/StoreContent/FlairBackgrounds/RitualBackgroundFlair.png",
+  "HasFlair": true,
+  "ObjectImagePath": "progression/StoreContent/Offerings/S1_SixthGateLoyalty_v2.png"
+}

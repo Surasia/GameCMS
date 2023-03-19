@@ -1,0 +1,22 @@
+{
+  "Title": "Season 1 Legendary Armor Bundle",
+  "Description": "This bundle includes the Stormfall Armor Set, Anubis Armor Set, and Hazop Armor Set. Best value!",
+  "Quality": "Legendary",
+  "WidthHint": 2,
+  "HeightHint": 4,
+  "FlairText": "",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "ObjectImagePath": "progression/StoreContent/Offerings/S2_Store_Season1LegendaryArmorBundle_2x4.png",
+  "HasGleam": null,
+  "IsOnSale": null,
+  "SalePercentage": null,
+  "IsEventItem": null,
+  "IsNew": null,
+  "FlairBackgroundColorOverrideRGB": null,
+  "FlairTextColorOverrideRGB": null,
+  "TitleColorOverrideRGB": null,
+  "PriceColorOverrideRGB": null,
+  "PriceShadowColorOverrideRGB": null,
+  "HasFlair": null
+}

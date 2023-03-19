@@ -1,0 +1,12 @@
+{
+  "Title": "Kabuto Armor Set",
+  "Description": "Tipping the scales. Requires the Yoroi armor core earned in the Fracture: Tenrai event.",
+  "Quality": "Legendary",
+  "WidthHint": 2,
+  "HeightHint": 4,
+  "FlairText": "Weekly",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "ObjectImagePath": "progression/StoreContent/Offerings/S1_Kabuto_Dragonbark_Warlord.png",
+  "HasFlair": null
+}

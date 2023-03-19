@@ -1,0 +1,68 @@
+{
+  "Themes": {
+    "DefaultOptionPath": "Inventory/Armor/Themes/007-001-spi-c13d0b38.json",
+    "OptionPaths": [
+      "Inventory/Armor/Themes/007-001-spi-c13d0b38.json"
+    ]
+  },
+  "CommonData": {
+    "Id": "017-001-spi-c13d0b38",
+    "HideUntilOwned": false,
+    "Title": "Mirage IIC",
+    "Description": "MIRAGE IIC armor builds on the foundation of the GEN1 Mirage and Semi-Powered Infiltration (SPI) armor program to create low cost, multi-role powered assault armor that meets baseline GEN3 Mjolnir standards.",
+    "FeatureFlag": true,
+    "ItemAvailability": "",
+    "DateReleased": {
+      "ISO8601Date": ""
+    },
+    "AltName": "spi",
+    "IconStringId": {
+      "m_identifier": -1
+    },
+    "SpriteBitmap": 0,
+    "SpriteFrameIndex": 0,
+    "AltSpriteBitmap": 0,
+    "AltSpriteFrameIndex": 0,
+    "DisplayPath": {
+      "Width": 320,
+      "Height": 320,
+      "Media": {
+        "MediaUrl": {
+          "AuthorityId": "",
+          "Path": "progression/Cores/ArmorCores/017-001-spi-c13d0b38.png",
+          "RetryPolicyId": "",
+          "TopicName": "",
+          "AcknowledgementTypeId": "NoAcknowledgement",
+          "AuthenticationLifetimeExtensionSupported": false,
+          "ClearanceAware": false
+        },
+        "MimeType": "",
+        "Caption": "",
+        "AlternateText": "",
+        "FolderPath": "",
+        "FileName": ""
+      },
+      "MimeType": "image/png",
+      "FolderPath": "progression/Cores/ArmorCores",
+      "FileName": "017-001-spi-c13d0b38.png"
+    },
+    "Quality": "Rare",
+    "ManufacturerId": 14,
+    "Type": "ArmorCore",
+    "RewardTrack": "",
+    "ParentPaths": [],
+    "SortingMetadata": {
+      "categoryWeight": 0,
+      "subCategoryWeight": 0
+    },
+    "SeasonNumber": 3,
+    "OriginalSeasonNumber": 3,
+    "Season": {
+      "status": "Test",
+      "value": "Season 3",
+      "translations": {}
+    }
+  },
+  "CoreType": "Armor",
+  "IsItemOwnershipRequired": null
+}

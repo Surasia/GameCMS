@@ -1,0 +1,12 @@
+{
+  "Title": "Stormfall Armor Set",
+  "Description": "Track your targets with precision.",
+  "Quality": "Legendary",
+  "WidthHint": 2,
+  "HeightHint": 4,
+  "FlairText": "Weekly",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "ObjectImagePath": "progression/StoreContent/Offerings/S1_Stormfall.png",
+  "HasFlair": null
+}

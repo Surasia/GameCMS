@@ -1,0 +1,22 @@
+{
+  "Title": "ULLR Armor Set ",
+  "Description": "Armor for Spartans who fight smarter, and harder.",
+  "Quality": "Legendary",
+  "WidthHint": 2,
+  "HeightHint": 2,
+  "FlairText": "",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "ObjectImagePath": "progression/StoreContent/Offerings/Sx_Store_TEMP_2x2.png",
+  "HasGleam": null,
+  "IsOnSale": null,
+  "SalePercentage": null,
+  "IsEventItem": null,
+  "IsNew": null,
+  "FlairBackgroundColorOverrideRGB": null,
+  "FlairTextColorOverrideRGB": null,
+  "TitleColorOverrideRGB": null,
+  "PriceColorOverrideRGB": null,
+  "PriceShadowColorOverrideRGB": null,
+  "HasFlair": null
+}

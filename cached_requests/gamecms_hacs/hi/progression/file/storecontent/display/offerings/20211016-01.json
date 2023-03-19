@@ -1,0 +1,12 @@
+{
+  "Title": "Firefall Armor Set",
+  "Description": "No entry like reentry. ",
+  "Quality": "Legendary",
+  "WidthHint": 4,
+  "HeightHint": 2,
+  "FlairText": "Weekly",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "ObjectImagePath": "progression/StoreContent/Offerings/S1_Firefall.png",
+  "HasFlair": null
+}

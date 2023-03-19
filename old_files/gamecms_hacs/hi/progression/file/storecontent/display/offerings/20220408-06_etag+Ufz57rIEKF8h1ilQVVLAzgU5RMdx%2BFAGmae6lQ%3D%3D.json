@@ -1,0 +1,18 @@
+{
+  "Title": "Tactical Recursion",
+  "Description": "For there to be a tomorrow, we must win today.",
+  "Quality": "Epic",
+  "WidthHint": 2,
+  "HeightHint": 2,
+  "FlairText": "",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "ObjectImagePath": "progression/StoreContent/Offerings/s2_tacticalrecursion_bugfix.png",
+  "HasFlair": null,
+  "SalePercentage": null,
+  "FlairBackgroundColorOverrideRGB": null,
+  "FlairTextColorOverrideRGB": null,
+  "TitleColorOverrideRGB": null,
+  "PriceColorOverrideRGB": null,
+  "PriceShadowColorOverrideRGB": null
+}

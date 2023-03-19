@@ -1,0 +1,22 @@
+{
+  "Title": "SALE! ZVEZDA Armor Set",
+  "Description": "Guardian of the stars.",
+  "Quality": "Legendary",
+  "WidthHint": 2,
+  "HeightHint": 4,
+  "FlairText": "Weekly",
+  "FlairIconPath": "progression/StoreContent/FlairIcons/RitualIconFlair.png",
+  "FlairBackgroundPath": "progression/StoreContent/FlairBackgrounds/RitualBackgroundFlair.png",
+  "ObjectImagePath": "progression/StoreContent/Offerings/S1_Zvezda.png",
+  "HasFlair": true,
+  "HasGleam": null,
+  "IsOnSale": true,
+  "SalePercentage": 25,
+  "IsEventItem": null,
+  "IsNew": null,
+  "FlairBackgroundColorOverrideRGB": null,
+  "FlairTextColorOverrideRGB": null,
+  "TitleColorOverrideRGB": null,
+  "PriceColorOverrideRGB": null,
+  "PriceShadowColorOverrideRGB": null
+}

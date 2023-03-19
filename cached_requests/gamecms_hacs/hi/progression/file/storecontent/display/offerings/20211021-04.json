@@ -1,0 +1,12 @@
+{
+  "Title": "Cool Guy",
+  "Description": "Who is Halo, again?",
+  "Quality": "Epic",
+  "WidthHint": 2,
+  "HeightHint": 2,
+  "FlairText": "Weekly",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "ObjectImagePath": "progression/StoreContent/Offerings/S1_CoolGuy.png",
+  "HasFlair": null
+}

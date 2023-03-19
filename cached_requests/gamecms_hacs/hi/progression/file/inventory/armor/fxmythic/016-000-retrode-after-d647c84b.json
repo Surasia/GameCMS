@@ -1,0 +1,123 @@
+{
+  "FxIds": [
+    449366522,
+    -1726734827,
+    -147542313,
+    460249789
+  ],
+  "CommonData": {
+    "Id": "016-000-retrode-after-d647c84b",
+    "HideUntilOwned": true,
+    "Title": "Retrode Aftermarket",
+    "Description": "New old stock.",
+    "FeatureFlag": false,
+    "ItemAvailability": "",
+    "DateReleased": {
+      "ISO8601Date": ""
+    },
+    "AltName": "",
+    "IconStringId": {
+      "m_identifier": -1
+    },
+    "SpriteBitmap": 0,
+    "SpriteFrameIndex": 0,
+    "AltSpriteBitmap": 0,
+    "AltSpriteFrameIndex": 0,
+    "DisplayPath": {
+      "Width": 320,
+      "Height": 320,
+      "Media": {
+        "MediaUrl": {
+          "AuthorityId": "",
+          "Path": "progression/Inventory/Armor/FXMythic/016-000-retrode-after-d647c84b-SM.png",
+          "RetryPolicyId": "",
+          "TopicName": "",
+          "AcknowledgementTypeId": "NoAcknowledgement",
+          "AuthenticationLifetimeExtensionSupported": false,
+          "ClearanceAware": false
+        },
+        "MimeType": "",
+        "Caption": "",
+        "AlternateText": "",
+        "FolderPath": "",
+        "FileName": ""
+      },
+      "MimeType": "image/png",
+      "FolderPath": "progression/Inventory/Armor/FXMythic",
+      "FileName": "016-000-retrode-after-d647c84b-SM.png"
+    },
+    "Quality": "Legendary",
+    "ManufacturerId": 8,
+    "Type": "ArmorMythicFx",
+    "RewardTrack": "",
+    "ParentPaths": [
+      {
+        "Path": "Inventory/Armor/Themes/007-001-olympus-c13d0b38.json",
+        "Type": "ArmorTheme"
+      },
+      {
+        "Path": "Inventory/Armor/Themes/007-000-lone-wolf-0903655e.json",
+        "Type": "ArmorTheme"
+      },
+      {
+        "Path": "Inventory/Armor/Themes/007-001-fwl-7f58d7f6.json",
+        "Type": "ArmorTheme"
+      },
+      {
+        "Path": "Inventory/Armor/Themes/007-000-eagle-strike-0903655e.json",
+        "Type": "ArmorTheme"
+      },
+      {
+        "Path": "Inventory/Armor/Themes/007-001-reach-2564121f.json",
+        "Type": "ArmorTheme"
+      },
+      {
+        "Path": "Inventory/Armor/Themes/007-001-samurai-55badb14.json",
+        "Type": "ArmorTheme"
+      },
+      {
+        "Path": "Inventory/Armor/Themes/007-001-spi-c13d0b38.json",
+        "Type": "ArmorTheme"
+      }
+    ],
+    "SortingMetadata": {
+      "categoryWeight": 0,
+      "subCategoryWeight": 0
+    },
+    "SeasonNumber": 3,
+    "OriginalSeasonNumber": 3,
+    "FocusMarker": {
+      "m_identifier": -1
+    },
+    "FocalDistance": 0,
+    "FocusMarkerOffset": 0,
+    "DOFType": "None",
+    "DOFFocalLength": 0,
+    "DOFFocalDistance": 0,
+    "DOFFStop": 0,
+    "ParentTheme": "",
+    "CameraPositions": [],
+    "CameraOffset": 0,
+    "CameraFOV": 0,
+    "CameraTransition": 0,
+    "Orientation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "Season": {
+      "status": "Test",
+      "value": "Season 3",
+      "translations": {}
+    },
+    "FocusedObjectOrientation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  },
+  "FxContentType": "None",
+  "ComposerSceneName": {
+    "m_identifier": -355737444
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Clippy",
+  "Description": "Do not cite the OPLAN to me, Spartan. I was there when it was written.",
+  "Quality": "Legendary",
+  "WidthHint": 2,
+  "HeightHint": 1,
+  "FlairText": "Daily",
+  "FlairIconPath": "progression/StoreContent/FlairIcons/RitualIconFlair.png",
+  "FlairBackgroundPath": "progression/StoreContent/FlairBackgrounds/RitualBackgroundFlair.png",
+  "ObjectImagePath": "progression/StoreContent/Offerings/clippy.png",
+  "HasFlair": true
+}

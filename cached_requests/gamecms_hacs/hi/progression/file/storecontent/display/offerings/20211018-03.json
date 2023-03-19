@@ -1,0 +1,12 @@
+{
+  "Title": "High Status",
+  "Description": "Sound investments.",
+  "Quality": "Epic",
+  "WidthHint": 2,
+  "HeightHint": 2,
+  "FlairText": "Daily",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "ObjectImagePath": "progression/StoreContent/Offerings/S1-HighStatus.png",
+  "HasFlair": null
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Chonmage Armor Set",
+  "Description": "For honor and duty. Requires the Yoroi armor core earned in the Fracture: Tenrai event.",
+  "Quality": "Legendary",
+  "WidthHint": 2,
+  "HeightHint": 4,
+  "FlairText": "Weekly",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "ObjectImagePath": "progression/StoreContent/Offerings/S1_Chonmage_v2.png",
+  "HasFlair": null
+}

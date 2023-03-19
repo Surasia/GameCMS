@@ -1,0 +1,19 @@
+{
+  "Title": "Khaki Runway",
+  "Description": "Uh...khakis?",
+  "Quality": "Rare",
+  "WidthHint": 4,
+  "HeightHint": 2,
+  "FlairText": "",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "ObjectImagePath": "progression/StoreContent/Offerings/s2_Khaki_Runway.png",
+  "HasFlair": null,
+  "HasGleam": false,
+  "SalePercentage": null,
+  "FlairBackgroundColorOverrideRGB": null,
+  "FlairTextColorOverrideRGB": null,
+  "TitleColorOverrideRGB": null,
+  "PriceColorOverrideRGB": null,
+  "PriceShadowColorOverrideRGB": null
+}

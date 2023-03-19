@@ -1,0 +1,89 @@
+{
+  "TagId": 0,
+  "ThemeName": {
+    "m_identifier": 230328334
+  },
+  "EmblemShaderName": {
+    "m_identifier": -1
+  },
+  "AvailableConfigurations": [
+    {
+      "ConfigurationId": 1462784355,
+      "ConfigurationPath": "Configuration/Emblems/Coatings/1000-000-19577f4d.json"
+    },
+    {
+      "ConfigurationId": 333809467,
+      "ConfigurationPath": "Configuration/Emblems/Coatings/1000-000-562e159c.json"
+    },
+    {
+      "ConfigurationId": -125529144,
+      "ConfigurationPath": "Configuration/Emblems/Coatings/1000-000-e400b684.json"
+    },
+    {
+      "ConfigurationId": -259996234,
+      "ConfigurationPath": "Configuration/Emblems/Coatings/1000-000-37c1b75d.json"
+    },
+    {
+      "ConfigurationId": 369533647,
+      "ConfigurationPath": "Configuration/Emblems/Coatings/1000-000-0c74ed1f.json"
+    }
+  ],
+  "CommonData": {
+    "Id": "104-001-spi-military-22bbf659",
+    "HideUntilOwned": false,
+    "Title": "Fireteam Cerberus",
+    "Description": "Semper Videmus.",
+    "FeatureFlag": true,
+    "ItemAvailability": "",
+    "DateReleased": {
+      "ISO8601Date": ""
+    },
+    "AltName": "104-001-spi-military-22bbf659",
+    "IconStringId": {
+      "m_identifier": -1
+    },
+    "SpriteBitmap": 0,
+    "SpriteFrameIndex": 0,
+    "AltSpriteBitmap": 0,
+    "AltSpriteFrameIndex": 0,
+    "DisplayPath": {
+      "Width": 1022,
+      "Height": 1022,
+      "Media": {
+        "MediaUrl": {
+          "AuthorityId": "",
+          "Path": "progression/Inventory/Emblems/spi_military_cerberus_emblem.png",
+          "RetryPolicyId": "",
+          "TopicName": "",
+          "AcknowledgementTypeId": "NoAcknowledgement",
+          "AuthenticationLifetimeExtensionSupported": false,
+          "ClearanceAware": false
+        },
+        "MimeType": "",
+        "Caption": "",
+        "AlternateText": "",
+        "FolderPath": "",
+        "FileName": ""
+      },
+      "MimeType": "image/png",
+      "FolderPath": "progression/Inventory/Emblems",
+      "FileName": "spi_military_cerberus_emblem.png"
+    },
+    "Quality": "Rare",
+    "ManufacturerId": 26,
+    "Type": "SpartanEmblem",
+    "RewardTrack": "",
+    "ParentPaths": [],
+    "SortingMetadata": {
+      "categoryWeight": 0,
+      "subCategoryWeight": 0
+    },
+    "SeasonNumber": 3,
+    "OriginalSeasonNumber": 3,
+    "Season": {
+      "status": "Ready",
+      "value": "Season 3",
+      "translations": {}
+    }
+  }
+}

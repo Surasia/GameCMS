@@ -1,0 +1,78 @@
+{
+  "TagId": -1774678782,
+  "MarkerLocation": {
+    "MarkerName": {
+      "m_identifier": -1164005139
+    },
+    "VariantId": {
+      "m_identifier": 1120495519
+    }
+  },
+  "StyleId": {
+    "m_identifier": -1
+  },
+  "MeshIndex": 0,
+  "CommonData": {
+    "Id": "001-001-olympus-caac1b8d",
+    "HideUntilOwned": false,
+    "Title": "Mr. Bones",
+    "Description": "Improvised emergency medical kit with two disposable regeneration field emitters, biomonitor, and a salvaged biofoam canister.",
+    "FeatureFlag": true,
+    "ItemAvailability": "",
+    "DateReleased": {
+      "ISO8601Date": ""
+    },
+    "AltName": "001-001-olympus-caac1b8d",
+    "IconStringId": {
+      "m_identifier": -1
+    },
+    "SpriteBitmap": 0,
+    "SpriteFrameIndex": 0,
+    "AltSpriteBitmap": 0,
+    "AltSpriteFrameIndex": 0,
+    "DisplayPath": {
+      "Width": 320,
+      "Height": 320,
+      "Media": {
+        "MediaUrl": {
+          "AuthorityId": "",
+          "Path": "progression/Inventory/Armor/ChestAttachments/001-001-olympus-caac1b8d-SM.png",
+          "RetryPolicyId": "",
+          "TopicName": "",
+          "AcknowledgementTypeId": "NoAcknowledgement",
+          "AuthenticationLifetimeExtensionSupported": false,
+          "ClearanceAware": false
+        },
+        "MimeType": "",
+        "Caption": "",
+        "AlternateText": "",
+        "FolderPath": "",
+        "FileName": ""
+      },
+      "MimeType": "image/png",
+      "FolderPath": "progression/Inventory/Armor/ChestAttachments",
+      "FileName": "001-001-olympus-caac1b8d-SM.png"
+    },
+    "Quality": "Legendary",
+    "ManufacturerId": 26,
+    "Type": "ArmorChestAttachment",
+    "RewardTrack": "",
+    "ParentPaths": [
+      {
+        "Path": "Inventory/Armor/Themes/007-001-olympus-c13d0b38.json",
+        "Type": "ArmorTheme"
+      }
+    ],
+    "SortingMetadata": {
+      "categoryWeight": 0,
+      "subCategoryWeight": 0
+    },
+    "SeasonNumber": 3,
+    "OriginalSeasonNumber": 3,
+    "Season": {
+      "status": "Ready",
+      "value": "Season 3",
+      "translations": {}
+    }
+  }
+}

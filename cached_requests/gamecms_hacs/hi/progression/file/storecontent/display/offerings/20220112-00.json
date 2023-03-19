@@ -1,0 +1,13 @@
+{
+  "Title": "Optic Gaming",
+  "Description": "Bundle includes team nameplate and customization kits for the Mark VII armor and BR75 Battle Rifle",
+  "Quality": "Epic",
+  "WidthHint": 2,
+  "HeightHint": 1,
+  "FlairText": "",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "ObjectImagePath": "progression/StoreContent/Offerings/007-000-optic_temp.png",
+  "HasFlair": null,
+  "HCSTeamIndex": 11
+}

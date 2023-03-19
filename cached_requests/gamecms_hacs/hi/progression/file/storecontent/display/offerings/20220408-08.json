@@ -1,0 +1,18 @@
+{
+  "Title": "Locus Armor Set",
+  "Description": "Suit up for battlefield stealth and cyberwarfare.",
+  "Quality": "Legendary",
+  "WidthHint": 2,
+  "HeightHint": 4,
+  "FlairText": "",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "ObjectImagePath": "progression/StoreContent/Offerings/s2_Locus_Armor_Set.png",
+  "HasFlair": null,
+  "SalePercentage": null,
+  "FlairBackgroundColorOverrideRGB": null,
+  "FlairTextColorOverrideRGB": null,
+  "TitleColorOverrideRGB": null,
+  "PriceColorOverrideRGB": null,
+  "PriceShadowColorOverrideRGB": null
+}

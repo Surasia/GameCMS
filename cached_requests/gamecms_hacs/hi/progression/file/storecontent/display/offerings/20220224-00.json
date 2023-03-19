@@ -1,0 +1,12 @@
+{
+  "Title": "Celox Armor Set",
+  "Description": "An unstoppable force.",
+  "Quality": "Epic",
+  "WidthHint": 2,
+  "HeightHint": 4,
+  "FlairText": "",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "ObjectImagePath": "progression/StoreContent/Offerings/Armor-Set-Celox.png",
+  "HasFlair": null
+}

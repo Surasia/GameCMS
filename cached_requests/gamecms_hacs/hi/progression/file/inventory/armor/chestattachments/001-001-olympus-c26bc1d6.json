@@ -1,0 +1,75 @@
+{
+  "TagId": 33483347,
+  "MarkerLocation": {
+    "MarkerName": {
+      "m_identifier": 1238018894
+    },
+    "VariantId": {
+      "m_identifier": 1120495519
+    }
+  },
+  "StyleId": {
+    "m_identifier": -1
+  },
+  "MeshIndex": 0,
+  "CommonData": {
+    "Id": "001-001-olympus-c26bc1d6",
+    "HideUntilOwned": false,
+    "Title": "Candy Pain",
+    "Description": "Don't poke your eye out!",
+    "FeatureFlag": true,
+    "ItemAvailability": "",
+    "DateReleased": {
+      "ISO8601Date": ""
+    },
+    "AltName": "001-001-olympus-c26bc1d6",
+    "IconStringId": {
+      "m_identifier": -1
+    },
+    "SpriteBitmap": 0,
+    "SpriteFrameIndex": 0,
+    "AltSpriteBitmap": 0,
+    "AltSpriteFrameIndex": 0,
+    "DisplayPath": {
+      "Width": 0,
+      "Height": 0,
+      "Media": {
+        "MediaUrl": {
+          "AuthorityId": "",
+          "Path": "",
+          "RetryPolicyId": "",
+          "TopicName": "",
+          "AcknowledgementTypeId": "NoAcknowledgement",
+          "AuthenticationLifetimeExtensionSupported": false,
+          "ClearanceAware": false
+        },
+        "MimeType": "",
+        "Caption": "",
+        "AlternateText": "",
+        "FolderPath": "",
+        "FileName": ""
+      }
+    },
+    "Quality": "Legendary",
+    "ManufacturerId": 0,
+    "Type": "ArmorChestAttachment",
+    "RewardTrack": "",
+    "ParentPaths": [
+      {
+        "Path": "Inventory/Armor/Themes/007-001-olympus-c13d0b38.json",
+        "Type": "ArmorTheme"
+      }
+    ],
+    "SortingMetadata": {
+      "categoryWeight": 0,
+      "subCategoryWeight": 0
+    },
+    "SeasonNumber": 2,
+    "OriginalSeasonNumber": 2,
+    "Season": {
+      "status": "Test",
+      "value": "",
+      "translations": {}
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Title": "FaZe Clan Playoff",
+  "Description": "Bundle includes an armor coating, a coating for the BR75 Battle Rifle, an emblem, background, and weapon charm.",
+  "Quality": "Epic",
+  "WidthHint": 2,
+  "HeightHint": 1,
+  "FlairText": "",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "ObjectImagePath": "progression/StoreContent/Offerings/FaZe.png",
+  "SalePercentage": null,
+  "FlairBackgroundColorOverrideRGB": null,
+  "FlairTextColorOverrideRGB": null,
+  "TitleColorOverrideRGB": null,
+  "PriceColorOverrideRGB": null,
+  "PriceShadowColorOverrideRGB": null,
+  "HasFlair": null,
+  "HCSTeamIndex": 5,
+  "HasGleam": null,
+  "IsOnSale": null,
+  "IsEventItem": null,
+  "IsNew": null
+}

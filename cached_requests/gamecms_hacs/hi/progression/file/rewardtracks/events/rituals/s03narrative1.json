@@ -1,0 +1,185 @@
+{
+  "TrackId": "S03Narrative1",
+  "XpPerRank": 1,
+  "Ranks": [
+    {
+      "Rank": 1,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "Inventory/spartan/BackdropImages/103-000-ui-background-9ea412a4.json",
+            "Amount": 1,
+            "Type": "SpartanBackdropImage"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 2,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "Inventory/armor/coatings/002-001-spi-8518fb14.json",
+            "Amount": 1,
+            "Type": "ArmorCoating"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 3,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "Inventory/armor/shouldersleft/008-001-spi-ae5ff118.json",
+            "Amount": 1,
+            "Type": "ArmorLeftShoulderPad"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 4,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "Inventory/armor/shouldersright/009-001-spi-ae5ff118.json",
+            "Amount": 1,
+            "Type": "ArmorRightShoulderPad"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 5,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "inventory/Armor/Visors/012-001-c00fdba2.json",
+            "Amount": 1,
+            "Type": "ArmorVisor"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 6,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "inventory/Armor/helmets/005-001-spi-3dcec5be.json",
+            "Amount": 1,
+            "Type": "ArmorHelmet"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 7,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "inventory/Armor/HelmetAttachments/004-001-spi-0d611370.json",
+            "Amount": 1,
+            "Type": "ArmorHelmetAttachment"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 8,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "inventory/Armor/HipAttachments/010-001-spi-7a2034c8.json",
+            "Amount": 1,
+            "Type": "ArmorHipAttachment"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 9,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "inventory/Armor/ChestAttachments/001-001-spi-5d7a8e0a.json",
+            "Amount": 1,
+            "Type": "ArmorChestAttachment"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 10,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "inventory/Armor/WristAttachments/011-001-spi-d322a674.json",
+            "Amount": 1,
+            "Type": "ArmorWristAttachment"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    }
+  ],
+  "Name": "MINDFALL",
+  "Description": "",
+  "OperationNumber": 3,
+  "DateRange": "March 7th, 2023 - March 20th, 2023",
+  "IsRitual": true,
+  "SummaryImagePath": "progression/RewardTracks/HIMPS3_NI_UI_EP_PROGRESSION_CARD_346x1068.png",
+  "WeekNumber": null,
+  "BackgroundImagePath": "",
+  "Type": "Story"
+}

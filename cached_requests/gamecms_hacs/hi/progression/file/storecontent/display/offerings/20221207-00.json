@@ -1,0 +1,22 @@
+{
+  "Title": "Dave's Test 2x4",
+  "Description": "testing some flair with our favorite troll AI",
+  "Quality": "Epic",
+  "WidthHint": 2,
+  "HeightHint": 4,
+  "FlairText": "Best Value",
+  "FlairIconPath": "progression/StoreContent/FlairIcons/BestValueIconFlair.png",
+  "FlairBackgroundPath": "progression/StoreContent/FlairBackgrounds/BestValueBackgroundFlair.png",
+  "HasFlair": true,
+  "ObjectImagePath": "progression/StoreContent/Offerings/Store_NeonBeat_2x4.png",
+  "HasGleam": null,
+  "IsOnSale": true,
+  "SalePercentage": 50,
+  "IsEventItem": null,
+  "IsNew": true,
+  "FlairBackgroundColorOverrideRGB": 1817919,
+  "FlairTextColorOverrideRGB": 3312577,
+  "TitleColorOverrideRGB": 12963871,
+  "PriceColorOverrideRGB": 12131782,
+  "PriceShadowColorOverrideRGB": null
+}

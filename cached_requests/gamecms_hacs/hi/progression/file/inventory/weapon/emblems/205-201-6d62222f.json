@@ -1,0 +1,127 @@
+{
+  "TagId": 0,
+  "ThemeName": {
+    "m_identifier": 872664298
+  },
+  "EmblemShaderName": {
+    "m_identifier": 0
+  },
+  "CommonData": {
+    "Id": "205-201-6d62222f",
+    "HideUntilOwned": false,
+    "Title": "205-201-6d62222f",
+    "Description": "205-201-6d62222f",
+    "FeatureFlag": true,
+    "ItemAvailability": "",
+    "DateReleased": {
+      "ISO8601Date": ""
+    },
+    "AltName": "205-201-6d62222f",
+    "IconStringId": {
+      "m_identifier": -1
+    },
+    "SpriteBitmap": 0,
+    "SpriteFrameIndex": 0,
+    "AltSpriteBitmap": 0,
+    "AltSpriteFrameIndex": 0,
+    "DisplayPath": {
+      "Width": 0,
+      "Height": 0,
+      "Media": {
+        "MediaUrl": {
+          "AuthorityId": "",
+          "Path": "",
+          "RetryPolicyId": "",
+          "TopicName": "",
+          "AcknowledgementTypeId": "NoAcknowledgement",
+          "AuthenticationLifetimeExtensionSupported": false,
+          "ClearanceAware": false
+        },
+        "MimeType": "",
+        "Caption": "",
+        "AlternateText": "",
+        "FolderPath": "",
+        "FileName": ""
+      }
+    },
+    "Quality": "Common",
+    "ManufacturerId": 0,
+    "Type": "WeaponEmblem",
+    "RewardTrack": "",
+    "ParentPaths": [
+      {
+        "Path": "Inventory/Weapon/Themes/207-201-olympus-aa30213b.json",
+        "Type": "WeaponTheme"
+      },
+      {
+        "Path": "Inventory/Weapon/Themes/207-200-olympus-aa30213b.json",
+        "Type": "WeaponTheme"
+      },
+      {
+        "Path": "Inventory/Weapon/Themes/207-202-olympus-aa30213b.json",
+        "Type": "WeaponTheme"
+      },
+      {
+        "Path": "Inventory/Weapon/Themes/207-203-olympus-aa30213b.json",
+        "Type": "WeaponTheme"
+      },
+      {
+        "Path": "Inventory/Weapon/Themes/207-204-olympus-aa30213b.json",
+        "Type": "WeaponTheme"
+      },
+      {
+        "Path": "Inventory/Weapon/Themes/207-205-olympus-aa30213b.json",
+        "Type": "WeaponTheme"
+      },
+      {
+        "Path": "Inventory/Weapon/Themes/207-206-olympus-aa30213b.json",
+        "Type": "WeaponTheme"
+      },
+      {
+        "Path": "Inventory/Weapon/Themes/207-207-olympus-aa30213b.json",
+        "Type": "WeaponTheme"
+      },
+      {
+        "Path": "Inventory/Weapon/Themes/207-208-olympus-aa30213b.json",
+        "Type": "WeaponTheme"
+      }
+    ],
+    "SortingMetadata": {
+      "categoryWeight": 0,
+      "subCategoryWeight": 0
+    },
+    "SeasonNumber": 0,
+    "OriginalSeasonNumber": 3,
+    "Season": {
+      "status": "Test",
+      "value": "",
+      "translations": {}
+    }
+  },
+  "AvailableConfigurations": [
+    {
+      "ConfigurationId": 594353430,
+      "ConfigurationPath": "Configuration/Emblems/Coatings/1000-000-81b099cc.json"
+    },
+    {
+      "ConfigurationId": 1949223174,
+      "ConfigurationPath": "Configuration/Emblems/Coatings/1000-000-9ac3e2aa.json"
+    },
+    {
+      "ConfigurationId": -325080807,
+      "ConfigurationPath": "Configuration/Emblems/Coatings/1000-000-86826a8d.json"
+    },
+    {
+      "ConfigurationId": -1447454067,
+      "ConfigurationPath": "Configuration/Emblems/Coatings/1000-000-cf25656b.json"
+    },
+    {
+      "ConfigurationId": 153272729,
+      "ConfigurationPath": "Configuration/Emblems/Coatings/1000-000-a282f54b.json"
+    },
+    {
+      "ConfigurationId": 692782316,
+      "ConfigurationPath": "Configuration/Emblems/Coatings/1000-000-cd8d2a08.json"
+    }
+  ]
+}

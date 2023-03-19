@@ -1,0 +1,17 @@
+{
+  "DateRange": "March 07, 2023 - June 19, 2023",
+  "Name": "Echoes Within",
+  "Logo": "progression/ScreenBackgrounds/Season_Switcher_S3_EW.png",
+  "Number": 3,
+  "Description": "Sometimes our greatest challenges lie just beneath the surface.",
+  "SummaryBackgroundPath": "progression/ScreenBackgrounds/Summary_Background.png",
+  "ChallengesBackgroundPath": "progression/ScreenBackgrounds/challenges_background.png",
+  "BattlePassLogoImage": "progression/ScreenBackgrounds/battlepass_logo.png",
+  "SeasonLogoImage": "seasons/insignia_s3_EW_512.png",
+  "RitualLogoImage": "progression/ScreenBackgrounds/ritual_logo.png",
+  "StorefrontBackgroundImage": "progression/ScreenBackgrounds/storefront_background.png",
+  "CardBackgroundImage": "progression/Switcher/Season_Switcher_S3_EW.png",
+  "NarrativeBlurb": "Spartan Dinh picked up something dangerous in the field... Since returning to the Academy with Spartan Eklund, a Banished menace has haunted his dreams and memories, threatening to extend its reach.\n\nConfident they have contained the threat, Commander Agryna devotes herself to rebuilding the UNSC, training her Spartan recruits for the inevitable coming conflict with the Banished.\n\nStill, Dinh can't shake the feeling that something deeper is at play\u2014and he needs your help. Time to burrow into the heart of the Academy and root out the source of the echoes within.",
+  "BattlePassSeasonUpsellBackgroundImage": "progression/ScreenBackgrounds/season_upsell_background_S3.png",
+  "ProgressionBackgroundImage": "progression/ScreenBackgrounds/progression_background.png"
+}

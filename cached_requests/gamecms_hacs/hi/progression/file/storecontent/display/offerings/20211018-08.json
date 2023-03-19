@@ -1,0 +1,12 @@
+{
+  "Title": "Snow Bird",
+  "Description": "Permafrost protection",
+  "Quality": "Epic",
+  "WidthHint": 2,
+  "HeightHint": 2,
+  "FlairText": "Weekly",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "ObjectImagePath": "progression/StoreContent/Offerings/S1_SnowBird.png",
+  "HasFlair": null
+}

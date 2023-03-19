@@ -1,0 +1,12 @@
+{
+  "Title": "Mud Hog Wild",
+  "Description": "Pigs in the slop.",
+  "Quality": "Epic",
+  "WidthHint": 2,
+  "HeightHint": 2,
+  "FlairText": "Daily",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "HasFlair": false,
+  "ObjectImagePath": "progression/StoreContent/Offerings/S1_MudHogWild.png"
+}

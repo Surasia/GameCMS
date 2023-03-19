@@ -1,0 +1,354 @@
+{
+  "TrackId": "S03Fracture",
+  "XpPerRank": 1,
+  "Ranks": [
+    {
+      "Rank": 1,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "Inventory/spartan/BackdropImages/103-000-ui-background-f73458f2.json",
+            "Amount": 1,
+            "Type": "SpartanBackdropImage"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 2,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "Inventory/armor/Emblems/013-001-fa09ad13.json",
+            "Amount": 1,
+            "Type": "ArmorEmblem"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 3,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "Inventory/vehicle/coatings/404-300-olympus-99af28c2.json",
+            "Amount": 1,
+            "Type": "VehicleCoating"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 4,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "Inventory/armor/coatings/002-001-fwl-99af28c2.json",
+            "Amount": 1,
+            "Type": "ArmorCoating"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 5,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "Inventory/armor/helmets/005-001-fwl-4d6eb574.json",
+            "Amount": 1,
+            "Type": "ArmorHelmet"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 6,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "Inventory/vehicle/Emblems/405-305-fa09ad13.json",
+            "Amount": 1,
+            "Type": "VehicleEmblem"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 7,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "inventory/vehicle/coatings/404-304-olympus-99af28c2.json",
+            "Amount": 1,
+            "Type": "VehicleCoating"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 8,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "Inventory/Weapon/coatings/203-208-olympus-99af28c2.json",
+            "Amount": 1,
+            "Type": "WeaponCoating"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 9,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "Inventory/armor/Visors/012-001-261f92e5.json",
+            "Amount": 1,
+            "Type": "ArmorVisor"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 10,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "Inventory/armor/kneepads/006-001-fwl-54758435.json",
+            "Amount": 1,
+            "Type": "ArmorKneePad"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 11,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "Inventory/Weapon/Emblems/205-201-fa09ad13.json",
+            "Amount": 1,
+            "Type": "WeaponEmblem"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 12,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "Inventory/vehicle/coatings/404-306-olympus-99af28c2.json",
+            "Amount": 1,
+            "Type": "VehicleCoating"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 13,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "Inventory/armor/coatings/002-001-fwl-136efa39.json",
+            "Amount": 1,
+            "Type": "ArmorCoating"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 14,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "Inventory/armor/shouldersleft/008-001-fwl-1b3412f2.json",
+            "Amount": 1,
+            "Type": "ArmorLeftShoulderPad"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 15,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "Inventory/armor/shouldersright/009-001-fwl-1b3412f2.json",
+            "Amount": 1,
+            "Type": "ArmorRightShoulderPad"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 16,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "Inventory/spartan/Emblems/104-001-firewall-futu-fa09ad13.json",
+            "Amount": 1,
+            "Type": "SpartanEmblem"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 17,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "Inventory/vehicle/coatings/404-303-olympus-99af28c2.json",
+            "Amount": 1,
+            "Type": "VehicleCoating"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 18,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "Inventory/spartan/actionposes/101-000-menu-stance-f-8062371d.json",
+            "Amount": 1,
+            "Type": "SpartanActionPose"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 19,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "Inventory/armor/WristAttachments/011-001-fwl-fc5e6f70.json",
+            "Amount": 1,
+            "Type": "ArmorWristAttachment"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 20,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "Inventory/armor/ChestAttachments/001-001-fwl-0f71b34b.json",
+            "Amount": 1,
+            "Type": "ArmorChestAttachment"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    }
+  ],
+  "Name": "Fracture: Firewall",
+  "Description": "",
+  "OperationNumber": 3,
+  "DateRange": "Week 1: March 21st, 2023 - March 27th, 2023\nWeek 2: April 11th, 2023 - April 17th, 2023\nWeek 3: May 23rd 2023 - May 29th, 2023\nWeek 4: June 14th 2023 - June 20th, 2023",
+  "IsRitual": true,
+  "SummaryImagePath": "",
+  "WeekNumber": null,
+  "BackgroundImagePath": ""
+}

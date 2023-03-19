@@ -1,0 +1,12 @@
+{
+  "Title": "Kukri",
+  "Description": "Sharply dressed. Requires the Mark V armor core acquired in the Heroes of Reach battle pass.",
+  "Quality": "Epic",
+  "WidthHint": 2,
+  "HeightHint": 2,
+  "FlairText": "Weekly",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "ObjectImagePath": "progression/StoreContent/Offerings/S1_Kukri.png",
+  "HasFlair": null
+}

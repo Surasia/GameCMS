@@ -1,0 +1,60 @@
+{
+  "ConfigurationId": {
+    "m_identifier": -1422386741
+  },
+  "CommonData": {
+    "Id": "1000-000-ab4778fe",
+    "HideUntilOwned": false,
+    "Title": "Color Palette",
+    "Description": "olympus_marketing_bromide",
+    "FeatureFlag": true,
+    "ItemAvailability": "",
+    "DateReleased": {
+      "ISO8601Date": ""
+    },
+    "AltName": "",
+    "IconStringId": {
+      "m_identifier": -1
+    },
+    "SpriteBitmap": 0,
+    "SpriteFrameIndex": 0,
+    "AltSpriteBitmap": 0,
+    "AltSpriteFrameIndex": 0,
+    "DisplayPath": {
+      "Width": 0,
+      "Height": 0,
+      "Media": {
+        "MediaUrl": {
+          "AuthorityId": "",
+          "Path": "",
+          "RetryPolicyId": "",
+          "TopicName": "",
+          "AcknowledgementTypeId": "NoAcknowledgement",
+          "AuthenticationLifetimeExtensionSupported": false,
+          "ClearanceAware": false
+        },
+        "MimeType": "",
+        "Caption": "",
+        "AlternateText": "",
+        "FolderPath": "",
+        "FileName": ""
+      }
+    },
+    "Quality": "Common",
+    "ManufacturerId": 0,
+    "Type": "None",
+    "RewardTrack": "",
+    "ParentPaths": [],
+    "SortingMetadata": {
+      "categoryWeight": 0,
+      "subCategoryWeight": 0
+    },
+    "SeasonNumber": 0,
+    "OriginalSeasonNumber": 3,
+    "Season": {
+      "status": "Test",
+      "value": "Season 3",
+      "translations": {}
+    }
+  }
+}

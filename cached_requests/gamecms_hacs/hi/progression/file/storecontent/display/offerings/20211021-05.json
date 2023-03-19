@@ -1,0 +1,12 @@
+{
+  "Title": "Chroma Key",
+  "Description": "Brighten your day.",
+  "Quality": "Rare",
+  "WidthHint": 2,
+  "HeightHint": 1,
+  "FlairText": "Daily",
+  "FlairIconPath": "progression/StoreContent/FlairIcons/RitualIconFlair.png",
+  "FlairBackgroundPath": "progression/StoreContent/FlairBackgrounds/RitualBackgroundFlair.png",
+  "ObjectImagePath": "progression/StoreContent/Offerings/S1_ChromaKey.png",
+  "HasFlair": null
+}

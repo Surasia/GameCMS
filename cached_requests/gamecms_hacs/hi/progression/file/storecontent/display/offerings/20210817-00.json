@@ -1,0 +1,11 @@
+{
+  "Title": "QA Storefront Offer",
+  "Description": "Placeholder offer to hold whatever QA needs tested.  Contents can be edited by anyone in QA without Live design approval.\n\nWill be replaced with the consumable offer at launch.",
+  "Quality": "Common",
+  "WidthHint": 2,
+  "HeightHint": 1,
+  "FlairText": "",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "ObjectImagePath": ""
+}

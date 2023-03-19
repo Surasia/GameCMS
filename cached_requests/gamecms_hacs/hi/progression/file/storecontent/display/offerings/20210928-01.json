@@ -1,0 +1,22 @@
+{
+  "Title": "Sale! Mister Chief",
+  "Description": "Drawn to the battlefield.",
+  "Quality": "Legendary",
+  "WidthHint": 2,
+  "HeightHint": 2,
+  "FlairText": "Daily",
+  "FlairIconPath": "progression/StoreContent/FlairIcons/RitualIconFlair.png",
+  "FlairBackgroundPath": "progression/StoreContent/FlairBackgrounds/RitualBackgroundFlair.png",
+  "ObjectImagePath": "progression/StoreContent/Offerings/S1_Store_MisterChief_2x2.png",
+  "HasFlair": true,
+  "HasGleam": true,
+  "IsOnSale": true,
+  "SalePercentage": 0,
+  "FlairBackgroundColorOverrideRGB": null,
+  "FlairTextColorOverrideRGB": null,
+  "TitleColorOverrideRGB": null,
+  "PriceColorOverrideRGB": null,
+  "PriceShadowColorOverrideRGB": null,
+  "IsEventItem": null,
+  "IsNew": null
+}

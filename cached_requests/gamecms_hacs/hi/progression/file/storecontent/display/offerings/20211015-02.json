@@ -1,0 +1,23 @@
+{
+  "Title": "Neon Beat",
+  "Description": "Ideal for bass defense.",
+  "Quality": "Epic",
+  "WidthHint": 2,
+  "HeightHint": 4,
+  "FlairText": "Best Value",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": "progression/StoreContent/FlairBackgrounds/RitualBackgroundFlair.png",
+  "ObjectImagePath": "progression/StoreContent/Offerings/2023_S3_NeonBeat_Bundle_2x4.png",
+  "HasFlair": true,
+  "SalePercentage": 50,
+  "FlairBackgroundColorOverrideRGB": null,
+  "FlairTextColorOverrideRGB": null,
+  "TitleColorOverrideRGB": null,
+  "PriceColorOverrideRGB": null,
+  "PriceShadowColorOverrideRGB": null,
+  "HasGleam": null,
+  "IsOnSale": true,
+  "IsEventItem": null,
+  "IsNew": null,
+  "StoreTileType": "StoreOffer"
+}
