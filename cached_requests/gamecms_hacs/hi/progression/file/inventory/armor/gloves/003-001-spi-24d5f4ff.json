@@ -1,0 +1,93 @@
+{
+  "TagId": -1,
+  "StyleId": {
+    "m_identifier": -1
+  },
+  "RegionData": [
+    {
+      "RegionId": {
+        "m_identifier": 2088789481
+      },
+      "PermutationId": {
+        "m_identifier": 527336283
+      },
+      "StyleIdOverride": {
+        "m_identifier": -1
+      }
+    },
+    {
+      "RegionId": {
+        "m_identifier": 1644532521
+      },
+      "PermutationId": {
+        "m_identifier": 527336283
+      },
+      "StyleIdOverride": {
+        "m_identifier": -1
+      }
+    }
+  ],
+  "CommonData": {
+    "Id": "003-001-spi-24d5f4ff",
+    "HideUntilOwned": false,
+    "Title": "Rift Epsilon",
+    "Description": "Manufactured from Materials Group templates, but with small touches added by Emerson combat testers.",
+    "FeatureFlag": true,
+    "ItemAvailability": "",
+    "DateReleased": {
+      "ISO8601Date": ""
+    },
+    "AltName": "003-001-spi-24d5f4ff",
+    "IconStringId": {
+      "m_identifier": -1
+    },
+    "SpriteBitmap": 0,
+    "SpriteFrameIndex": 0,
+    "AltSpriteBitmap": 0,
+    "AltSpriteFrameIndex": 0,
+    "DisplayPath": {
+      "Width": 320,
+      "Height": 320,
+      "Media": {
+        "MediaUrl": {
+          "AuthorityId": "",
+          "Path": "progression/Inventory/Armor/Gloves/003-001-spi-24d5f4ff-SM.png",
+          "RetryPolicyId": "",
+          "TopicName": "",
+          "AcknowledgementTypeId": "NoAcknowledgement",
+          "AuthenticationLifetimeExtensionSupported": false,
+          "ClearanceAware": false
+        },
+        "MimeType": "",
+        "Caption": "",
+        "AlternateText": "",
+        "FolderPath": "",
+        "FileName": ""
+      },
+      "MimeType": "image/png",
+      "FolderPath": "progression/Inventory/Armor/Gloves",
+      "FileName": "003-001-spi-24d5f4ff-SM.png"
+    },
+    "Quality": "Epic",
+    "ManufacturerId": 6,
+    "Type": "ArmorGlove",
+    "RewardTrack": "",
+    "ParentPaths": [
+      {
+        "Path": "Inventory/Armor/Themes/007-001-spi-c13d0b38.json",
+        "Type": "ArmorTheme"
+      }
+    ],
+    "SortingMetadata": {
+      "categoryWeight": 0,
+      "subCategoryWeight": 0
+    },
+    "SeasonNumber": 3,
+    "OriginalSeasonNumber": 3,
+    "Season": {
+      "status": "Ready",
+      "value": "Season 3",
+      "translations": {}
+    }
+  }
+}

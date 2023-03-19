@@ -1,0 +1,22 @@
+{
+  "Title": "Unremembered Defiance",
+  "Description": "Civil defense units suffered the most as social collapse accelerated.",
+  "Quality": "Epic",
+  "WidthHint": 2,
+  "HeightHint": 1,
+  "FlairText": "",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "ObjectImagePath": "progression/StoreContent/Offerings/unremembered_defiance.png",
+  "HasFlair": false,
+  "HasGleam": true,
+  "IsOnSale": false,
+  "SalePercentage": null,
+  "IsEventItem": false,
+  "IsNew": true,
+  "FlairBackgroundColorOverrideRGB": null,
+  "FlairTextColorOverrideRGB": null,
+  "TitleColorOverrideRGB": null,
+  "PriceColorOverrideRGB": null,
+  "PriceShadowColorOverrideRGB": null
+}

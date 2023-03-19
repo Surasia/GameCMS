@@ -1,0 +1,127 @@
+{
+  "TagId": 0,
+  "ThemeName": {
+    "m_identifier": 1797268668
+  },
+  "EmblemShaderName": {
+    "m_identifier": 0
+  },
+  "CommonData": {
+    "Id": "205-201-b4ece8c5",
+    "HideUntilOwned": true,
+    "Title": "One-Barrel Bandit",
+    "Description": "Life thief.",
+    "FeatureFlag": true,
+    "ItemAvailability": "",
+    "DateReleased": {
+      "ISO8601Date": ""
+    },
+    "AltName": "205-201-b4ece8c5",
+    "IconStringId": {
+      "m_identifier": -1
+    },
+    "SpriteBitmap": 0,
+    "SpriteFrameIndex": 0,
+    "AltSpriteBitmap": 0,
+    "AltSpriteFrameIndex": 0,
+    "DisplayPath": {
+      "Width": 0,
+      "Height": 0,
+      "Media": {
+        "MediaUrl": {
+          "AuthorityId": "",
+          "Path": "progression/Inventory/Emblems/general_gun_bandit_emblem.png",
+          "RetryPolicyId": "",
+          "TopicName": "",
+          "AcknowledgementTypeId": "NoAcknowledgement",
+          "AuthenticationLifetimeExtensionSupported": false,
+          "ClearanceAware": false
+        },
+        "MimeType": "",
+        "Caption": "",
+        "AlternateText": "",
+        "FolderPath": "",
+        "FileName": ""
+      }
+    },
+    "Quality": "Epic",
+    "ManufacturerId": 26,
+    "Type": "WeaponEmblem",
+    "RewardTrack": "",
+    "ParentPaths": [
+      {
+        "Path": "Inventory/Weapon/Themes/207-201-olympus-aa30213b.json",
+        "Type": "WeaponTheme"
+      },
+      {
+        "Path": "Inventory/Weapon/Themes/207-200-olympus-aa30213b.json",
+        "Type": "WeaponTheme"
+      },
+      {
+        "Path": "Inventory/Weapon/Themes/207-202-olympus-aa30213b.json",
+        "Type": "WeaponTheme"
+      },
+      {
+        "Path": "Inventory/Weapon/Themes/207-203-olympus-aa30213b.json",
+        "Type": "WeaponTheme"
+      },
+      {
+        "Path": "Inventory/Weapon/Themes/207-204-olympus-aa30213b.json",
+        "Type": "WeaponTheme"
+      },
+      {
+        "Path": "Inventory/Weapon/Themes/207-205-olympus-aa30213b.json",
+        "Type": "WeaponTheme"
+      },
+      {
+        "Path": "Inventory/Weapon/Themes/207-206-olympus-aa30213b.json",
+        "Type": "WeaponTheme"
+      },
+      {
+        "Path": "Inventory/Weapon/Themes/207-207-olympus-aa30213b.json",
+        "Type": "WeaponTheme"
+      },
+      {
+        "Path": "Inventory/Weapon/Themes/207-208-olympus-aa30213b.json",
+        "Type": "WeaponTheme"
+      }
+    ],
+    "SortingMetadata": {
+      "categoryWeight": 0,
+      "subCategoryWeight": 0
+    },
+    "SeasonNumber": 3,
+    "OriginalSeasonNumber": 3,
+    "Season": {
+      "status": "Ready",
+      "value": "Season 3",
+      "translations": {}
+    }
+  },
+  "AvailableConfigurations": [
+    {
+      "ConfigurationId": -673882093,
+      "ConfigurationPath": "Configuration/Emblems/Coatings/1000-000-40db65f2.json"
+    },
+    {
+      "ConfigurationId": 2002077589,
+      "ConfigurationPath": "Configuration/Emblems/Coatings/1000-000-e9a0fb39.json"
+    },
+    {
+      "ConfigurationId": 314156859,
+      "ConfigurationPath": "Configuration/Emblems/Coatings/1000-000-df89a86f.json"
+    },
+    {
+      "ConfigurationId": -1345480832,
+      "ConfigurationPath": "Configuration/Emblems/Coatings/1000-000-af385a8a.json"
+    },
+    {
+      "ConfigurationId": -252222833,
+      "ConfigurationPath": "Configuration/Emblems/Coatings/1000-000-259de8dd.json"
+    },
+    {
+      "ConfigurationId": -1759111326,
+      "ConfigurationPath": "Configuration/Emblems/Coatings/1000-000-1880150a.json"
+    }
+  ]
+}

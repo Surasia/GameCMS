@@ -1,0 +1,73 @@
+{
+  "TagId": 0,
+  "StyleId": {
+    "m_identifier": 951507283
+  },
+  "RegionPartId": {
+    "m_identifier": -1
+  },
+  "CommonData": {
+    "Id": "203-204-olympus-addefb1e",
+    "HideUntilOwned": false,
+    "Title": "Green Machine",
+    "Description": "Regulation color scheme.",
+    "FeatureFlag": true,
+    "ItemAvailability": "",
+    "DateReleased": {
+      "ISO8601Date": ""
+    },
+    "AltName": "oly_mil_green_machine",
+    "IconStringId": {
+      "m_identifier": -1
+    },
+    "SpriteBitmap": 0,
+    "SpriteFrameIndex": 0,
+    "AltSpriteBitmap": 0,
+    "AltSpriteFrameIndex": 0,
+    "DisplayPath": {
+      "Width": 320,
+      "Height": 320,
+      "Media": {
+        "MediaUrl": {
+          "AuthorityId": "",
+          "Path": "progression/Inventory/Weapon/Coatings/203-204-olympus-addefb1e-SM.png",
+          "RetryPolicyId": "",
+          "TopicName": "",
+          "AcknowledgementTypeId": "NoAcknowledgement",
+          "AuthenticationLifetimeExtensionSupported": false,
+          "ClearanceAware": false
+        },
+        "MimeType": "",
+        "Caption": "",
+        "AlternateText": "",
+        "FolderPath": "",
+        "FileName": ""
+      },
+      "MimeType": "image/png",
+      "FolderPath": "progression/Inventory/Weapon/Coatings",
+      "FileName": "203-204-olympus-addefb1e-SM.png"
+    },
+    "Quality": "Epic",
+    "ManufacturerId": 26,
+    "Type": "WeaponCoating",
+    "RewardTrack": "",
+    "ParentPaths": [
+      {
+        "Path": "Inventory/Weapon/Themes/207-204-olympus-aa30213b.json",
+        "Type": "ArmorTheme"
+      }
+    ],
+    "SortingMetadata": {
+      "categoryWeight": 0,
+      "subCategoryWeight": 0
+    },
+    "SeasonNumber": 3,
+    "OriginalSeasonNumber": 3,
+    "Season": {
+      "status": "Test",
+      "value": "",
+      "translations": {}
+    }
+  },
+  "LightingScalarOverride": 0
+}

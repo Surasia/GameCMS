@@ -1,0 +1,135 @@
+{
+  "TagId": 0,
+  "ThemeName": {
+    "m_identifier": 89400095
+  },
+  "EmblemShaderName": {
+    "m_identifier": 0
+  },
+  "CommonData": {
+    "Id": "205-201-d1eb631b",
+    "HideUntilOwned": false,
+    "Title": "Squad Op",
+    "Description": "Power in combined fire.",
+    "FeatureFlag": true,
+    "ItemAvailability": "",
+    "DateReleased": {
+      "ISO8601Date": ""
+    },
+    "AltName": "205-201-d1eb631b",
+    "IconStringId": {
+      "m_identifier": -1
+    },
+    "SpriteBitmap": 0,
+    "SpriteFrameIndex": 0,
+    "AltSpriteBitmap": 0,
+    "AltSpriteFrameIndex": 0,
+    "DisplayPath": {
+      "Width": 0,
+      "Height": 0,
+      "Media": {
+        "MediaUrl": {
+          "AuthorityId": "",
+          "Path": "",
+          "RetryPolicyId": "",
+          "TopicName": "",
+          "AcknowledgementTypeId": "NoAcknowledgement",
+          "AuthenticationLifetimeExtensionSupported": false,
+          "ClearanceAware": false
+        },
+        "MimeType": "",
+        "Caption": "",
+        "AlternateText": "",
+        "FolderPath": "",
+        "FileName": ""
+      }
+    },
+    "Quality": "Epic",
+    "ManufacturerId": 0,
+    "Type": "WeaponEmblem",
+    "RewardTrack": "",
+    "ParentPaths": [
+      {
+        "Path": "Inventory/Weapon/Themes/207-201-olympus-aa30213b.json",
+        "Type": "WeaponTheme"
+      },
+      {
+        "Path": "Inventory/Weapon/Themes/207-200-olympus-aa30213b.json",
+        "Type": "WeaponTheme"
+      },
+      {
+        "Path": "Inventory/Weapon/Themes/207-202-olympus-aa30213b.json",
+        "Type": "WeaponTheme"
+      },
+      {
+        "Path": "Inventory/Weapon/Themes/207-203-olympus-aa30213b.json",
+        "Type": "WeaponTheme"
+      },
+      {
+        "Path": "Inventory/Weapon/Themes/207-204-olympus-aa30213b.json",
+        "Type": "WeaponTheme"
+      },
+      {
+        "Path": "Inventory/Weapon/Themes/207-205-olympus-aa30213b.json",
+        "Type": "WeaponTheme"
+      },
+      {
+        "Path": "Inventory/Weapon/Themes/207-206-olympus-aa30213b.json",
+        "Type": "WeaponTheme"
+      },
+      {
+        "Path": "Inventory/Weapon/Themes/207-207-olympus-aa30213b.json",
+        "Type": "WeaponTheme"
+      },
+      {
+        "Path": "Inventory/Weapon/Themes/207-208-olympus-aa30213b.json",
+        "Type": "WeaponTheme"
+      }
+    ],
+    "SortingMetadata": {
+      "categoryWeight": 0,
+      "subCategoryWeight": 0
+    },
+    "SeasonNumber": 2,
+    "OriginalSeasonNumber": 2,
+    "Season": {
+      "status": "Ready",
+      "value": "Season 2",
+      "translations": {}
+    }
+  },
+  "AvailableConfigurations": [
+    {
+      "ConfigurationId": 1416945468,
+      "ConfigurationPath": "Configuration/Emblems/Coatings/1000-000-e0d77088.json"
+    },
+    {
+      "ConfigurationId": 2002077589,
+      "ConfigurationPath": "Configuration/Emblems/Coatings/1000-000-e9a0fb39.json"
+    },
+    {
+      "ConfigurationId": 824330229,
+      "ConfigurationPath": "Configuration/Emblems/Coatings/1000-000-227adf2f.json"
+    },
+    {
+      "ConfigurationId": -1450117268,
+      "ConfigurationPath": "Configuration/Emblems/Coatings/1000-000-2a5696d7.json"
+    },
+    {
+      "ConfigurationId": 212701875,
+      "ConfigurationPath": "Configuration/Emblems/Coatings/1000-000-1a8eb72d.json"
+    },
+    {
+      "ConfigurationId": -1979948843,
+      "ConfigurationPath": "Configuration/Emblems/Coatings/1000-000-a21a435c.json"
+    },
+    {
+      "ConfigurationId": -1662528593,
+      "ConfigurationPath": "Configuration/Emblems/Coatings/1000-000-cbfa234b.json"
+    },
+    {
+      "ConfigurationId": -2102066031,
+      "ConfigurationPath": "Configuration/Emblems/Coatings/1000-000-6fb27f35.json"
+    }
+  ]
+}

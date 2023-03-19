@@ -1,0 +1,12 @@
+{
+  "Title": "True Blue",
+  "Description": "Coastal confliction. Requires the Mark V armor core acquired in the Heroes of Reach battle pass.",
+  "Quality": "Rare",
+  "WidthHint": 2,
+  "HeightHint": 1,
+  "FlairText": "Daily",
+  "FlairIconPath": "progression/StoreContent/FlairIcons/RitualIconFlair.png",
+  "FlairBackgroundPath": "progression/StoreContent/FlairBackgrounds/RitualBackgroundFlair.png",
+  "ObjectImagePath": "progression/StoreContent/Offerings/S1_TrueBlue.png",
+  "HasFlair": null
+}

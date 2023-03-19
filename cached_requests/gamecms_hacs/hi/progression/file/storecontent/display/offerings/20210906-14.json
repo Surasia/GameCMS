@@ -1,0 +1,22 @@
+{
+  "Title": "Sale! Tacticlamp 117",
+  "Description": "Your word is your bond.",
+  "Quality": "Epic",
+  "WidthHint": 2,
+  "HeightHint": 2,
+  "FlairText": "Daily",
+  "FlairIconPath": "progression/StoreContent/FlairIcons/RitualIconFlair.png",
+  "FlairBackgroundPath": "progression/StoreContent/FlairBackgrounds/RitualBackgroundFlair.png",
+  "HasFlair": true,
+  "ObjectImagePath": "progression/StoreContent/Offerings/S1_Tacticlamp_117.png",
+  "SalePercentage": 50,
+  "FlairBackgroundColorOverrideRGB": null,
+  "FlairTextColorOverrideRGB": null,
+  "TitleColorOverrideRGB": null,
+  "PriceColorOverrideRGB": null,
+  "PriceShadowColorOverrideRGB": null,
+  "HasGleam": null,
+  "IsOnSale": true,
+  "IsEventItem": null,
+  "IsNew": null
+}

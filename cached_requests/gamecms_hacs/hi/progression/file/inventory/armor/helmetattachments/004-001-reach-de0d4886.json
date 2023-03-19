@@ -1,0 +1,70 @@
+{
+  "TagId": -1097337171,
+  "MarkerLocation": {
+    "MarkerName": {
+      "m_identifier": 714966513
+    },
+    "VariantId": {
+      "m_identifier": 1120495519
+    }
+  },
+  "StyleId": {
+    "m_identifier": -1
+  },
+  "MeshIndex": 0,
+  "CommonData": {
+    "Id": "004-001-reach-de0d4886",
+    "HideUntilOwned": false,
+    "Title": "004-001-reach-de0d4886",
+    "Description": "004-001-reach-de0d4886",
+    "FeatureFlag": true,
+    "ItemAvailability": "",
+    "DateReleased": {
+      "ISO8601Date": ""
+    },
+    "AltName": "004-001-reach-de0d4886",
+    "IconStringId": {
+      "m_identifier": -1
+    },
+    "SpriteBitmap": 0,
+    "SpriteFrameIndex": 0,
+    "AltSpriteBitmap": 0,
+    "AltSpriteFrameIndex": 0,
+    "DisplayPath": {
+      "Width": 0,
+      "Height": 0,
+      "Media": {
+        "MediaUrl": {
+          "AuthorityId": "",
+          "Path": "",
+          "RetryPolicyId": "",
+          "TopicName": "",
+          "AcknowledgementTypeId": "NoAcknowledgement",
+          "AuthenticationLifetimeExtensionSupported": false,
+          "ClearanceAware": false
+        },
+        "MimeType": "",
+        "Caption": "",
+        "AlternateText": "",
+        "FolderPath": "",
+        "FileName": ""
+      }
+    },
+    "Quality": "Common",
+    "ManufacturerId": 0,
+    "Type": "ArmorHelmetAttachment",
+    "RewardTrack": "",
+    "ParentPaths": [],
+    "SortingMetadata": {
+      "categoryWeight": 0,
+      "subCategoryWeight": 0
+    },
+    "SeasonNumber": 0,
+    "OriginalSeasonNumber": 2,
+    "Season": {
+      "status": "Ready",
+      "value": "Season 3",
+      "translations": {}
+    }
+  }
+}

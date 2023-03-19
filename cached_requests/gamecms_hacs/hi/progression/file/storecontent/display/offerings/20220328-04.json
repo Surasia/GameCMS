@@ -1,0 +1,12 @@
+{
+  "Title": "ULLR Armor Set",
+  "Description": "Armor for Spartans who fight smarter, and harder.\u00a0",
+  "Quality": "Legendary",
+  "WidthHint": 2,
+  "HeightHint": 4,
+  "FlairText": "",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "ObjectImagePath": "progression/StoreContent/Offerings/Armor-Set-ULLR.png",
+  "HasFlair": null
+}

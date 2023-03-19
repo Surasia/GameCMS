@@ -1,0 +1,126 @@
+{
+  "TagId": 0,
+  "ThemeName": {
+    "m_identifier": 238902973
+  },
+  "EmblemShaderName": {
+    "m_identifier": 0
+  },
+  "CommonData": {
+    "Id": "405-305-77e49642",
+    "HideUntilOwned": false,
+    "Title": "Korolev Grizzlies",
+    "Description": "Overpowering the competition.",
+    "FeatureFlag": true,
+    "ItemAvailability": "",
+    "DateReleased": {
+      "ISO8601Date": ""
+    },
+    "AltName": "405-305-77e49642",
+    "IconStringId": {
+      "m_identifier": -1
+    },
+    "SpriteBitmap": 0,
+    "SpriteFrameIndex": 0,
+    "AltSpriteBitmap": 0,
+    "AltSpriteFrameIndex": 0,
+    "DisplayPath": {
+      "Width": 1024,
+      "Height": 1024,
+      "Media": {
+        "MediaUrl": {
+          "AuthorityId": "",
+          "Path": "progression/Inventory/Emblems/sportteam_casual_korolev_emblem.png",
+          "RetryPolicyId": "",
+          "TopicName": "",
+          "AcknowledgementTypeId": "NoAcknowledgement",
+          "AuthenticationLifetimeExtensionSupported": false,
+          "ClearanceAware": false
+        },
+        "MimeType": "",
+        "Caption": "",
+        "AlternateText": "",
+        "FolderPath": "",
+        "FileName": ""
+      },
+      "MimeType": "image/png",
+      "FolderPath": "progression/Inventory/Emblems",
+      "FileName": "sportteam_casual_korolev_emblem.png"
+    },
+    "Quality": "Epic",
+    "ManufacturerId": 8,
+    "Type": "VehicleEmblem",
+    "RewardTrack": "",
+    "ParentPaths": [
+      {
+        "Path": "Inventory/Vehicle/Themes/408-300-olympus-aa30213b.json",
+        "Type": "VehicleTheme"
+      },
+      {
+        "Path": "Inventory/Vehicle/Themes/408-301-olympus-aa30213b.json",
+        "Type": "VehicleTheme"
+      },
+      {
+        "Path": "Inventory/Vehicle/Themes/408-302-olympus-aa30213b.json",
+        "Type": "VehicleTheme"
+      },
+      {
+        "Path": "Inventory/Vehicle/Themes/408-303-olympus-aa30213b.json",
+        "Type": "VehicleTheme"
+      },
+      {
+        "Path": "Inventory/Vehicle/Themes/408-304-olympus-aa30213b.json",
+        "Type": "VehicleTheme"
+      },
+      {
+        "Path": "Inventory/Vehicle/Themes/408-305-olympus-aa30213b.json",
+        "Type": "VehicleTheme"
+      },
+      {
+        "Path": "Inventory/Vehicle/Themes/408-306-olympus-aa30213b.json",
+        "Type": "VehicleTheme"
+      }
+    ],
+    "SortingMetadata": {
+      "categoryWeight": 0,
+      "subCategoryWeight": 0
+    },
+    "SeasonNumber": 3,
+    "OriginalSeasonNumber": 3,
+    "Season": {
+      "status": "Ready",
+      "value": "Season 3",
+      "translations": {}
+    }
+  },
+  "AvailableConfigurations": [
+    {
+      "ConfigurationId": 1217979009,
+      "ConfigurationPath": "Configuration/Emblems/Coatings/1000-000-b609b34a.json"
+    },
+    {
+      "ConfigurationId": 1949223174,
+      "ConfigurationPath": "Configuration/Emblems/Coatings/1000-000-9ac3e2aa.json"
+    },
+    {
+      "ConfigurationId": -1951551896,
+      "ConfigurationPath": "Configuration/Emblems/Coatings/1000-000-4698e338.json"
+    },
+    {
+      "ConfigurationId": -1662528593,
+      "ConfigurationPath": "Configuration/Emblems/Coatings/1000-000-cbfa234b.json"
+    },
+    {
+      "ConfigurationId": -252222833,
+      "ConfigurationPath": "Configuration/Emblems/Coatings/1000-000-259de8dd.json"
+    },
+    {
+      "ConfigurationId": -538510258,
+      "ConfigurationPath": "Configuration/Emblems/Coatings/1000-000-14f5aad1.json"
+    },
+    {
+      "ConfigurationId": -259996234,
+      "ConfigurationPath": "Configuration/Emblems/Coatings/1000-000-37c1b75d.json"
+    }
+  ]
+}

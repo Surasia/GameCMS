@@ -1,0 +1,23 @@
+{
+  "Title": "Soldier Armor Set",
+  "Description": "For operatives who bring the heavy gear.",
+  "Quality": "Legendary",
+  "WidthHint": 2,
+  "HeightHint": 4,
+  "FlairText": "",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "ObjectImagePath": "progression/StoreContent/Offerings/Store_Soldier_2x4.png",
+  "HasGleam": null,
+  "IsOnSale": true,
+  "SalePercentage": null,
+  "IsEventItem": null,
+  "IsNew": null,
+  "FlairBackgroundColorOverrideRGB": null,
+  "FlairTextColorOverrideRGB": null,
+  "TitleColorOverrideRGB": null,
+  "PriceColorOverrideRGB": null,
+  "PriceShadowColorOverrideRGB": null,
+  "HasFlair": null,
+  "StoreTileType": "StoreOffer"
+}

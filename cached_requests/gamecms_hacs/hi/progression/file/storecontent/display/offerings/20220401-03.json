@@ -1,0 +1,20 @@
+{
+  "Title": "Brodie Armor Set",
+  "Description": "Most famously used by the Northam Volunteers, the BRODIE became synonymous with brave UNSC defenders who fought and died on the chem-scarred battlefields of eastern Europa.",
+  "Quality": "Legendary",
+  "WidthHint": 2,
+  "HeightHint": 4,
+  "FlairText": "",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "ObjectImagePath": "progression/StoreContent/Offerings/s2_Brodie_Armor_Set.png",
+  "HasFlair": null,
+  "HasGleam": true,
+  "SalePercentage": null,
+  "IsEventItem": true,
+  "FlairBackgroundColorOverrideRGB": null,
+  "FlairTextColorOverrideRGB": null,
+  "TitleColorOverrideRGB": null,
+  "PriceColorOverrideRGB": null,
+  "PriceShadowColorOverrideRGB": null
+}

@@ -1,0 +1,12 @@
+{
+  "Title": "Doom & Bloom",
+  "Description": "They're all perfect.",
+  "Quality": "Epic",
+  "WidthHint": 4,
+  "HeightHint": 2,
+  "FlairText": "Weekly",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "ObjectImagePath": "progression/StoreContent/Offerings/S1_Doom_and_Bloom.png",
+  "HasFlair": null
+}

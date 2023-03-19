@@ -1,0 +1,12 @@
+{
+  "Title": "Scarlet Medic",
+  "Description": "Expert in biofoam application.",
+  "Quality": "Rare",
+  "WidthHint": 2,
+  "HeightHint": 1,
+  "FlairText": "Daily",
+  "FlairIconPath": "progression/StoreContent/FlairIcons/RitualIconFlair.png",
+  "FlairBackgroundPath": "progression/StoreContent/FlairBackgrounds/RitualBackgroundFlair.png",
+  "HasFlair": true,
+  "ObjectImagePath": "progression/StoreContent/Offerings/S1_Scarlet_Medic_v2.png"
+}

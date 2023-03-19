@@ -1,0 +1,184 @@
+{
+  "TrackId": "ritualJointFire",
+  "XpPerRank": 1,
+  "Ranks": [
+    {
+      "Rank": 1,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "Inventory/spartan/backdropimages/103-000-ui-s2-backgro-e7a3c764.json",
+            "Amount": 1,
+            "Type": "SpartanBackdropImage"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 2,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "Inventory/armor/visors/012-001-0c38e630.json",
+            "Amount": 1,
+            "Type": "ArmorVisor"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 3,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "inventory/armor/kneepads/006-001-reach-9dd8757a.json",
+            "Amount": 1,
+            "Type": "ArmorKneePad"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 4,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "inventory/armor/chestattachments/001-001-reach-71e663bd.json",
+            "Amount": 1,
+            "Type": "ArmorChestAttachment"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 5,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "inventory/armor/helmets/005-001-reach-9dd8757a.json",
+            "Amount": 1,
+            "Type": "ArmorHelmet"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 6,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "inventory/armor/coatings/002-001-reach-2633ea5f.json",
+            "Amount": 1,
+            "Type": "ArmorCoating"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 7,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "Inventory/armor/visors/012-001-cd620c52.json",
+            "Amount": 1,
+            "Type": "ArmorVisor"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 8,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "inventory/armor/shouldersleft/008-001-reach-9dd8757a.json",
+            "Amount": 1,
+            "Type": "ArmorLeftShoulderPad"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 9,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "inventory/armor/shouldersright/009-001-reach-9dd8757a.json",
+            "Amount": 1,
+            "Type": "ArmorRightShoulderPad"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 10,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "inventory/armor/helmetattachments/004-001-reach-353af385.json",
+            "Amount": 1,
+            "Type": "ArmorHelmetAttachment"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    }
+  ],
+  "Name": "Joint Fire",
+  "Description": "",
+  "OperationNumber": 2,
+  "DateRange": "January 10th, 2023 - January 23rd, 2023",
+  "IsRitual": true,
+  "SummaryImagePath": "",
+  "WeekNumber": null,
+  "BackgroundImagePath": ""
+}

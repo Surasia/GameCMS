@@ -1,0 +1,78 @@
+{
+  "TagId": 730779164,
+  "MarkerLocation": {
+    "MarkerName": {
+      "m_identifier": -1164005139
+    },
+    "VariantId": {
+      "m_identifier": 1120495519
+    }
+  },
+  "StyleId": {
+    "m_identifier": -1
+  },
+  "MeshIndex": 0,
+  "CommonData": {
+    "Id": "001-001-spi-4461bf4b",
+    "HideUntilOwned": false,
+    "Title": "UTIL/Project Ra ZPEC",
+    "Description": "No studies have been done regarding exended exposure to Forerunner zero-point energy cells, but ONI is reasonably confident that any permament damage is worth the tactical gains.",
+    "FeatureFlag": true,
+    "ItemAvailability": "",
+    "DateReleased": {
+      "ISO8601Date": ""
+    },
+    "AltName": "001-001-spi-4461bf4b",
+    "IconStringId": {
+      "m_identifier": -1
+    },
+    "SpriteBitmap": 0,
+    "SpriteFrameIndex": 0,
+    "AltSpriteBitmap": 0,
+    "AltSpriteFrameIndex": 0,
+    "DisplayPath": {
+      "Width": 320,
+      "Height": 320,
+      "Media": {
+        "MediaUrl": {
+          "AuthorityId": "",
+          "Path": "progression/Inventory/Armor/ChestAttachments/001-001-spi-4461bf4b-SM.png",
+          "RetryPolicyId": "",
+          "TopicName": "",
+          "AcknowledgementTypeId": "NoAcknowledgement",
+          "AuthenticationLifetimeExtensionSupported": false,
+          "ClearanceAware": false
+        },
+        "MimeType": "",
+        "Caption": "",
+        "AlternateText": "",
+        "FolderPath": "",
+        "FileName": ""
+      },
+      "MimeType": "image/png",
+      "FolderPath": "progression/Inventory/Armor/ChestAttachments",
+      "FileName": "001-001-spi-4461bf4b-SM.png"
+    },
+    "Quality": "Epic",
+    "ManufacturerId": 30,
+    "Type": "ArmorChestAttachment",
+    "RewardTrack": "",
+    "ParentPaths": [
+      {
+        "Path": "Inventory/Armor/Themes/007-001-spi-c13d0b38.json",
+        "Type": "ArmorTheme"
+      }
+    ],
+    "SortingMetadata": {
+      "categoryWeight": 0,
+      "subCategoryWeight": 0
+    },
+    "SeasonNumber": 3,
+    "OriginalSeasonNumber": 3,
+    "Season": {
+      "status": "Ready",
+      "value": "Season 3",
+      "translations": {}
+    }
+  }
+}

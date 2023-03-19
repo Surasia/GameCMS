@@ -1,0 +1,68 @@
+{
+  "Themes": {
+    "DefaultOptionPath": "Inventory/Armor/Themes/007-001-fwl-7f58d7f6.json",
+    "OptionPaths": [
+      "Inventory/Armor/Themes/007-001-fwl-7f58d7f6.json"
+    ]
+  },
+  "CommonData": {
+    "Id": "017-001-fwl-7f58d7f6",
+    "HideUntilOwned": false,
+    "Title": "Chimera",
+    "Description": "Executors are born of evolved minds seeking a perfection of the bipedal war machine. Their flesh and bone is broken, compacted, rewoven, and overwritten into a hybrid where man and machine are almost indistinguishable.",
+    "FeatureFlag": true,
+    "ItemAvailability": "",
+    "DateReleased": {
+      "ISO8601Date": ""
+    },
+    "AltName": "fwl",
+    "IconStringId": {
+      "m_identifier": -1
+    },
+    "SpriteBitmap": 0,
+    "SpriteFrameIndex": 0,
+    "AltSpriteBitmap": 0,
+    "AltSpriteFrameIndex": 0,
+    "DisplayPath": {
+      "Width": 320,
+      "Height": 320,
+      "Media": {
+        "MediaUrl": {
+          "AuthorityId": "",
+          "Path": "progression/Cores/ArmorCores/017-001-fwl-7f58d7f6.png",
+          "RetryPolicyId": "",
+          "TopicName": "",
+          "AcknowledgementTypeId": "NoAcknowledgement",
+          "AuthenticationLifetimeExtensionSupported": false,
+          "ClearanceAware": false
+        },
+        "MimeType": "",
+        "Caption": "",
+        "AlternateText": "",
+        "FolderPath": "",
+        "FileName": ""
+      },
+      "MimeType": "image/png",
+      "FolderPath": "progression/Cores/ArmorCores",
+      "FileName": "017-001-fwl-7f58d7f6.png"
+    },
+    "Quality": "Legendary",
+    "ManufacturerId": 39,
+    "Type": "ArmorCore",
+    "RewardTrack": "",
+    "ParentPaths": [],
+    "SortingMetadata": {
+      "categoryWeight": 0,
+      "subCategoryWeight": 0
+    },
+    "SeasonNumber": 3,
+    "OriginalSeasonNumber": 3,
+    "Season": {
+      "status": "Test",
+      "value": "Season 3",
+      "translations": {}
+    }
+  },
+  "CoreType": "Armor",
+  "IsItemOwnershipRequired": null
+}

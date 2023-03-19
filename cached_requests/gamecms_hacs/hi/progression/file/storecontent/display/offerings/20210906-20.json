@@ -1,0 +1,11 @@
+{
+  "Title": "CQC Armor Set",
+  "Description": "Get up close and personal. Requires the Mark V armor core acquired in the Heroes of Reach battle pass.",
+  "Quality": "Legendary",
+  "WidthHint": 4,
+  "HeightHint": 2,
+  "FlairText": "Weekly",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "ObjectImagePath": "progression/StoreContent/Offerings/S1_CQC.png"
+}

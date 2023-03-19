@@ -1,0 +1,12 @@
+{
+  "Title": "Vakara Bred",
+  "Description": "Changing the rules of engagement.",
+  "Quality": "Rare",
+  "WidthHint": 2,
+  "HeightHint": 1,
+  "FlairText": "Weekly",
+  "FlairIconPath": "progression/StoreContent/FlairIcons/RitualIconFlair.png",
+  "FlairBackgroundPath": "progression/StoreContent/FlairBackgrounds/RitualBackgroundFlair.png",
+  "ObjectImagePath": "progression/StoreContent/Offerings/S1-VakaraBred.png",
+  "HasFlair": null
+}

@@ -1,0 +1,519 @@
+{
+  "TrackId": "battlepass-WinterBreak",
+  "XpPerRank": 1000,
+  "Ranks": [
+    {
+      "Rank": 1,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "inventory/armor/Themes/007-001-reach-2564121f.json",
+            "Amount": 1,
+            "Type": "ArmorTheme"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 2,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "inventory/armor/emblems/013-001-d333d964.json",
+            "Amount": 1,
+            "Type": "ArmorEmblem"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 3,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "inventory/armor/chestattachments/001-001-reach-57d92956.json",
+            "Amount": 1,
+            "Type": "ArmorChestAttachment"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 4,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "inventory/armor/shouldersleft/008-001-reach-5501ff72.json",
+            "Amount": 1,
+            "Type": "ArmorLeftShoulderPad"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 5,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "inventory/armor/shouldersright/009-001-reach-5501ff72.json",
+            "Amount": 1,
+            "Type": "ArmorRightShoulderPad"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 6,
+      "FreeRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": [
+          {
+            "CurrencyPath": "Currency/Currencies/xpboost.json",
+            "Amount": 1
+          }
+        ]
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 7,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "inventory/vehicle/emblems/405-305-d333d964.json",
+            "Amount": 1,
+            "Type": "VehicleEmblem"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 8,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "inventory/armor/visors/012-001-d78e3aaf.json",
+            "Amount": 1,
+            "Type": "ArmorVisor"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 9,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "inventory/armor/hipattachments/010-001-reach-14cbd500.json",
+            "Amount": 1,
+            "Type": "ArmorHipAttachment"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 10,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "inventory/armor/helmets/005-001-reach-afee17f8.json",
+            "Amount": 1,
+            "Type": "ArmorHelmet"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 11,
+      "FreeRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": [
+          {
+            "CurrencyPath": "Currency/Currencies/xpboost.json",
+            "Amount": 1
+          }
+        ]
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 12,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "inventory/weapon/emblems/205-201-d333d964.json",
+            "Amount": 1,
+            "Type": "WeaponEmblem"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 13,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "inventory/armor/kneepads/006-001-reach-84c3443b.json",
+            "Amount": 1,
+            "Type": "ArmorKneePad"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 14,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "inventory/armor/shouldersleft/008-001-reach-6a2584d8.json",
+            "Amount": 1,
+            "Type": "ArmorLeftShoulderPad"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 15,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "inventory/armor/shouldersright/009-001-reach-6a2584d8.json",
+            "Amount": 1,
+            "Type": "ArmorRightShoulderPad"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 16,
+      "FreeRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": [
+          {
+            "CurrencyPath": "Currency/Currencies/xpboost.json",
+            "Amount": 1
+          }
+        ]
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 17,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "inventory/spartan/emblems/104-001-olympus-cp-br-d333d964.json",
+            "Amount": 1,
+            "Type": "SpartanEmblem"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 18,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "inventory/armor/shouldersleft/008-001-reach-d299e3bd.json",
+            "Amount": 1,
+            "Type": "ArmorLeftShoulderPad"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 19,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "inventory/armor/shouldersright/009-001-reach-d299e3bd.json",
+            "Amount": 1,
+            "Type": "ArmorRightShoulderPad"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 20,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "inventory/armor/helmets/005-001-reach-84c3443b.json",
+            "Amount": 1,
+            "Type": "ArmorHelmet"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 21,
+      "FreeRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": [
+          {
+            "CurrencyPath": "Currency/Currencies/xpboost.json",
+            "Amount": 1
+          }
+        ]
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 22,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "inventory/armor/visors/012-001-3c7d1bd2.json",
+            "Amount": 1,
+            "Type": "ArmorVisor"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 23,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "inventory/armor/coatings/002-001-reach-1b975971.json",
+            "Amount": 1,
+            "Type": "ArmorCoating"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 24,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "inventory/armor/chestattachments/001-001-reach-158aa6b9.json",
+            "Amount": 1,
+            "Type": "ArmorChestAttachment"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 25,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "inventory/armor/helmetattachments/004-001-reach-e558ed75.json",
+            "Amount": 1,
+            "Type": "ArmorHelmetAttachment"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 26,
+      "FreeRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": [
+          {
+            "CurrencyPath": "Currency/Currencies/xpboost.json",
+            "Amount": 1
+          }
+        ]
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 27,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "inventory/armor/shouldersleft/008-001-reach-4108d71b.json",
+            "Amount": 1,
+            "Type": "ArmorLeftShoulderPad"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 28,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "inventory/armor/shouldersright/009-001-reach-4108d71b.json",
+            "Amount": 1,
+            "Type": "ArmorRightShoulderPad"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 29,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "inventory/armor/chestattachments/001-001-reach-23d6bb0a.json",
+            "Amount": 1,
+            "Type": "ArmorChestAttachment"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    },
+    {
+      "Rank": 30,
+      "FreeRewards": {
+        "InventoryRewards": [
+          {
+            "InventoryItemPath": "inventory/armor/helmets/005-001-reach-f9b4b07e.json",
+            "Amount": 1,
+            "Type": "ArmorHelmet"
+          }
+        ],
+        "CurrencyRewards": []
+      },
+      "PaidRewards": {
+        "InventoryRewards": [],
+        "CurrencyRewards": []
+      }
+    }
+  ],
+  "Name": "Winter Update",
+  "Description": "",
+  "OperationNumber": 2001,
+  "DateRange": "",
+  "IsRitual": false,
+  "SummaryImagePath": "progression/RewardTracks/HIMPS2-5_WU_UI_BP_PROGRESSION_CARD_346x1068.png",
+  "WeekNumber": null,
+  "BackgroundImagePath": ""
+}

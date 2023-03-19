@@ -1,0 +1,23 @@
+{
+  "Title": "Neon Superfly",
+  "Description": "Pretty fly for a street samurai. Requires the Yoroi armor core earned in the Fracture: Tenrai event to equip all armor coatings.",
+  "Quality": "Epic",
+  "WidthHint": 2,
+  "HeightHint": 4,
+  "FlairText": "Weekly",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "ObjectImagePath": "progression/StoreContent/Offerings/2023_S3_NeonSuperfly_Bundle_2x4.png",
+  "HasFlair": null,
+  "IsOnSale": false,
+  "SalePercentage": null,
+  "FlairBackgroundColorOverrideRGB": null,
+  "FlairTextColorOverrideRGB": null,
+  "TitleColorOverrideRGB": null,
+  "PriceColorOverrideRGB": null,
+  "PriceShadowColorOverrideRGB": null,
+  "HasGleam": null,
+  "IsEventItem": true,
+  "IsNew": null,
+  "StoreTileType": "StoreOffer"
+}

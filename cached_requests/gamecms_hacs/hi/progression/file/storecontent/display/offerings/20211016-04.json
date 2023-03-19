@@ -1,0 +1,12 @@
+{
+  "Title": "Midnight Gold",
+  "Description": "Geology's bounty.",
+  "Quality": "Legendary",
+  "WidthHint": 4,
+  "HeightHint": 2,
+  "FlairText": "Weekly",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "ObjectImagePath": "progression/StoreContent/Offerings/S1_Midnight_Gold.png",
+  "HasFlair": null
+}

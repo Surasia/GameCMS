@@ -1,0 +1,23 @@
+{
+  "Title": "Enlightened Path",
+  "Description": "You already know when you've won.",
+  "Quality": "Legendary",
+  "WidthHint": 4,
+  "HeightHint": 2,
+  "FlairText": "",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "ObjectImagePath": "progression/StoreContent/Offerings/S1_SamuraiMythicFX.png",
+  "HasFlair": true,
+  "HasGleam": null,
+  "IsOnSale": true,
+  "SalePercentage": 10,
+  "IsEventItem": null,
+  "IsNew": null,
+  "FlairBackgroundColorOverrideRGB": null,
+  "FlairTextColorOverrideRGB": null,
+  "TitleColorOverrideRGB": null,
+  "PriceColorOverrideRGB": null,
+  "PriceShadowColorOverrideRGB": null,
+  "StoreTileType": "StoreOffer"
+}

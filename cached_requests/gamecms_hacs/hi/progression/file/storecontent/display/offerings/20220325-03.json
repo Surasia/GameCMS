@@ -1,0 +1,12 @@
+{
+  "Title": "Deepcore Red",
+  "Description": "Steel over flesh. Muscle over bone.",
+  "Quality": "Legendary",
+  "WidthHint": 4,
+  "HeightHint": 2,
+  "FlairText": "",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "ObjectImagePath": "progression/StoreContent/Offerings/coating_deepcore_red.png",
+  "HasFlair": null
+}

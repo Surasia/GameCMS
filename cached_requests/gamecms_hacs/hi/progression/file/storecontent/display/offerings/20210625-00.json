@@ -1,0 +1,22 @@
+{
+  "Title": "Battle Pass Store Testing",
+  "Description": "Noble Sacrifice and Lone Wolves!  On the Storefront!  With a Helmet!",
+  "Quality": "Legendary",
+  "WidthHint": 2,
+  "HeightHint": 1,
+  "FlairText": "",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "ObjectImagePath": "",
+  "SalePercentage": null,
+  "FlairBackgroundColorOverrideRGB": null,
+  "FlairTextColorOverrideRGB": null,
+  "TitleColorOverrideRGB": null,
+  "PriceColorOverrideRGB": null,
+  "PriceShadowColorOverrideRGB": null,
+  "HasFlair": null,
+  "HasGleam": null,
+  "IsOnSale": null,
+  "IsEventItem": null,
+  "IsNew": null
+}

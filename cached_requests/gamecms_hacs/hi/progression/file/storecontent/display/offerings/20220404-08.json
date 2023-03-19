@@ -1,0 +1,12 @@
+{
+  "Title": "Eggcellent Blossoms",
+  "Description": "And by blossoms, we mean explosions.",
+  "Quality": "Rare",
+  "WidthHint": 2,
+  "HeightHint": 1,
+  "FlairText": "",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "ObjectImagePath": "progression/StoreContent/Offerings/s2_Eggcelent_Blossoms.png",
+  "HasFlair": false
+}

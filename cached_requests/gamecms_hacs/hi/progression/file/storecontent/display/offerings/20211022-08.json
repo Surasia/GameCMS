@@ -1,0 +1,12 @@
+{
+  "Title": "Sleepwalker Suite",
+  "Description": "No rest for the weary.",
+  "Quality": "Rare",
+  "WidthHint": 2,
+  "HeightHint": 1,
+  "FlairText": "Daily",
+  "FlairIconPath": "progression/StoreContent/FlairIcons/RitualIconFlair.png",
+  "FlairBackgroundPath": "progression/StoreContent/FlairBackgrounds/RitualBackgroundFlair.png",
+  "ObjectImagePath": "progression/StoreContent/Offerings/S1_SleepwalkerSuite.png",
+  "HasFlair": null
+}

@@ -1,0 +1,20 @@
+{
+  "Title": "Echelon Ecto",
+  "Description": "We own the void.",
+  "Quality": "Legendary",
+  "WidthHint": 2,
+  "HeightHint": 2,
+  "FlairText": "",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "ObjectImagePath": "progression/StoreContent/Offerings/s2_Echelon_Ecto.png",
+  "HasFlair": null,
+  "HasGleam": true,
+  "IsOnSale": true,
+  "SalePercentage": 50,
+  "FlairBackgroundColorOverrideRGB": null,
+  "FlairTextColorOverrideRGB": null,
+  "TitleColorOverrideRGB": null,
+  "PriceColorOverrideRGB": null,
+  "PriceShadowColorOverrideRGB": null
+}

@@ -1,0 +1,82 @@
+{
+  "TagId": -1188114000,
+  "MarkerLocation": {
+    "MarkerName": {
+      "m_identifier": 714966513
+    },
+    "VariantId": {
+      "m_identifier": 1120495519
+    }
+  },
+  "StyleId": {
+    "m_identifier": -1
+  },
+  "MeshIndex": 0,
+  "CommonData": {
+    "Id": "004-001-spi-6c8356ad",
+    "HideUntilOwned": false,
+    "Title": "Extender Gryphos",
+    "Description": "Up-armor faceplate and redundant systems for extended operations in void environments.",
+    "FeatureFlag": true,
+    "ItemAvailability": "",
+    "DateReleased": {
+      "ISO8601Date": ""
+    },
+    "AltName": "004-001-spi-6c8356ad",
+    "IconStringId": {
+      "m_identifier": -1
+    },
+    "SpriteBitmap": 0,
+    "SpriteFrameIndex": 0,
+    "AltSpriteBitmap": 0,
+    "AltSpriteFrameIndex": 0,
+    "DisplayPath": {
+      "Width": 320,
+      "Height": 320,
+      "Media": {
+        "MediaUrl": {
+          "AuthorityId": "",
+          "Path": "progression/Inventory/Armor/HelmetAttachments/004-001-spi-6c8356ad-SM.png",
+          "RetryPolicyId": "",
+          "TopicName": "",
+          "AcknowledgementTypeId": "NoAcknowledgement",
+          "AuthenticationLifetimeExtensionSupported": false,
+          "ClearanceAware": false
+        },
+        "MimeType": "",
+        "Caption": "",
+        "AlternateText": "",
+        "FolderPath": "",
+        "FileName": ""
+      },
+      "MimeType": "image/png",
+      "FolderPath": "progression/Inventory/Armor/HelmetAttachments",
+      "FileName": "004-001-spi-6c8356ad-SM.png"
+    },
+    "Quality": "Legendary",
+    "ManufacturerId": 34,
+    "Type": "ArmorHelmetAttachment",
+    "RewardTrack": "",
+    "ParentPaths": [
+      {
+        "Path": "Inventory/Armor/Themes/007-001-spi-c13d0b38.json",
+        "Type": "ArmorTheme"
+      },
+      {
+        "Path": "Inventory/Armor/Helmets/005-001-spi-c7212d34.json",
+        "Type": "ArmorHelmet"
+      }
+    ],
+    "SortingMetadata": {
+      "categoryWeight": 0,
+      "subCategoryWeight": 0
+    },
+    "SeasonNumber": 3,
+    "OriginalSeasonNumber": 3,
+    "Season": {
+      "status": "Ready",
+      "value": "Season 3",
+      "translations": {}
+    }
+  }
+}

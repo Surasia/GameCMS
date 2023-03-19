@@ -1,0 +1,11 @@
+{
+  "Title": "A259 Collection",
+  "Description": "Wouldn't be a Noble mission if it were easy.",
+  "Quality": "Epic",
+  "WidthHint": 4,
+  "HeightHint": 2,
+  "FlairText": "Weekly",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "ObjectImagePath": "progression/StoreContent/Offerings/S1_A259_Collection.png"
+}

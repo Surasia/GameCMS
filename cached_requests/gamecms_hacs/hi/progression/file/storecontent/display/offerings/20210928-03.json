@@ -1,0 +1,12 @@
+{
+  "Title": "Blacksteel Katana",
+  "Description": "Hardened in practice. Tempered by battle.",
+  "Quality": "Epic",
+  "WidthHint": 4,
+  "HeightHint": 2,
+  "FlairText": "",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "ObjectImagePath": "progression/StoreContent/Offerings/S1_BlacksteelKatana.png",
+  "HasFlair": null
+}

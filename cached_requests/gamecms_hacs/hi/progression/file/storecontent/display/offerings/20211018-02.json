@@ -1,0 +1,12 @@
+{
+  "Title": "Sweet Success",
+  "Description": "When a plan comes together.",
+  "Quality": "Rare",
+  "WidthHint": 2,
+  "HeightHint": 1,
+  "FlairText": "Daily",
+  "FlairIconPath": "progression/StoreContent/FlairIcons/RitualIconFlair.png",
+  "FlairBackgroundPath": "progression/StoreContent/FlairBackgrounds/RitualBackgroundFlair.png",
+  "ObjectImagePath": "progression/StoreContent/Offerings/S1-SweetSuccess.png",
+  "HasFlair": null
+}

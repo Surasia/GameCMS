@@ -1,0 +1,23 @@
+{
+  "Title": "Sale! Perfect Circle",
+  "Description": "Don't let the power go to your head.",
+  "Quality": "Epic",
+  "WidthHint": 2,
+  "HeightHint": 2,
+  "FlairText": "Weekly",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "ObjectImagePath": "progression/StoreContent/Offerings/S2_Store_PerfectCircle_2x2.png",
+  "HasFlair": null,
+  "HasGleam": null,
+  "IsOnSale": true,
+  "SalePercentage": 25,
+  "IsEventItem": null,
+  "IsNew": null,
+  "FlairBackgroundColorOverrideRGB": null,
+  "FlairTextColorOverrideRGB": null,
+  "TitleColorOverrideRGB": null,
+  "PriceColorOverrideRGB": null,
+  "PriceShadowColorOverrideRGB": null,
+  "StoreTileType": "StoreOffer"
+}
