@@ -109,7 +109,7 @@
       "FreeRewards": {
         "InventoryRewards": [
           {
-            "InventoryItemPath": "inventory/spartan/actionposes/101-000-menu-stance-s-8684d1cf.json",
+            "InventoryItemPath": "inventory/spartan/actionposes/101-000-menu-stance-s-53a3641a.json",
             "Amount": 1,
             "Type": "SpartanActionPose"
           }
@@ -180,5 +180,6 @@
   "IsRitual": true,
   "SummaryImagePath": "",
   "WeekNumber": null,
-  "BackgroundImagePath": ""
+  "BackgroundImagePath": "",
+  "Type": "Story"
 }

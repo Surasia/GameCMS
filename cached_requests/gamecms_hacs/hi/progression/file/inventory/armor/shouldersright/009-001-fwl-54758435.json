@@ -1,0 +1,82 @@
+{
+  "TagId": -1,
+  "StyleId": {
+    "m_identifier": -1
+  },
+  "RegionData": [
+    {
+      "RegionId": {
+        "m_identifier": -1236654186
+      },
+      "PermutationId": {
+        "m_identifier": 765472553
+      },
+      "StyleIdOverride": {
+        "m_identifier": -1
+      }
+    }
+  ],
+  "CommonData": {
+    "Id": "009-001-fwl-54758435",
+    "HideUntilOwned": true,
+    "Title": "Flexcomposite Augmentor",
+    "Description": "Perfection cannot be achieved in a single iteration.",
+    "FeatureFlag": true,
+    "ItemAvailability": "",
+    "DateReleased": {
+      "ISO8601Date": ""
+    },
+    "AltName": "009-001-fwl-54758435",
+    "IconStringId": {
+      "m_identifier": -1
+    },
+    "SpriteBitmap": 0,
+    "SpriteFrameIndex": 0,
+    "AltSpriteBitmap": 0,
+    "AltSpriteFrameIndex": 0,
+    "DisplayPath": {
+      "Width": 320,
+      "Height": 320,
+      "Media": {
+        "MediaUrl": {
+          "AuthorityId": "",
+          "Path": "progression/Inventory/Armor/ShouldersRight/009-001-fwl-54758435-SM.png",
+          "RetryPolicyId": "",
+          "TopicName": "",
+          "AcknowledgementTypeId": "NoAcknowledgement",
+          "AuthenticationLifetimeExtensionSupported": false,
+          "ClearanceAware": false
+        },
+        "MimeType": "",
+        "Caption": "",
+        "AlternateText": "",
+        "FolderPath": "",
+        "FileName": ""
+      },
+      "MimeType": "image/png",
+      "FolderPath": "progression/Inventory/Armor/ShouldersRight",
+      "FileName": "009-001-fwl-54758435-SM.png"
+    },
+    "Quality": "Rare",
+    "ManufacturerId": 39,
+    "Type": "ArmorRightShoulderPad",
+    "RewardTrack": "",
+    "ParentPaths": [
+      {
+        "Path": "Inventory/Armor/Themes/007-001-fwl-7f58d7f6.json",
+        "Type": "ArmorTheme"
+      }
+    ],
+    "SortingMetadata": {
+      "categoryWeight": 0,
+      "subCategoryWeight": 0
+    },
+    "SeasonNumber": 3,
+    "OriginalSeasonNumber": 3,
+    "Season": {
+      "status": "Ready",
+      "value": "Season 3",
+      "translations": {}
+    }
+  }
+}
