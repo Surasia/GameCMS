@@ -1,0 +1,70 @@
+{
+  "TagId": 0,
+  "ThemeName": {
+    "m_identifier": -1032918765
+  },
+  "EmblemShaderName": {
+    "m_identifier": -1
+  },
+  "AvailableConfigurations": [
+    {
+      "ConfigurationId": -1447454067,
+      "ConfigurationPath": "Configuration/Emblems/Coatings/1000-000-cf25656b.json"
+    }
+  ],
+  "CommonData": {
+    "Id": "104-001-oly-s3-csr-pl-b6de3858",
+    "HideUntilOwned": true,
+    "Title": "Platinum Signum S3",
+    "Description": "A champion appears.",
+    "FeatureFlag": true,
+    "ItemAvailability": "",
+    "DateReleased": {
+      "ISO8601Date": ""
+    },
+    "AltName": "104-001-oly-s3-csr-pl-b6de3858",
+    "IconStringId": {
+      "m_identifier": -1
+    },
+    "SpriteBitmap": 0,
+    "SpriteFrameIndex": 0,
+    "AltSpriteBitmap": 0,
+    "AltSpriteFrameIndex": 0,
+    "DisplayPath": {
+      "Width": 0,
+      "Height": 0,
+      "Media": {
+        "MediaUrl": {
+          "AuthorityId": "",
+          "Path": "",
+          "RetryPolicyId": "",
+          "TopicName": "",
+          "AcknowledgementTypeId": "NoAcknowledgement",
+          "AuthenticationLifetimeExtensionSupported": false,
+          "ClearanceAware": false
+        },
+        "MimeType": "",
+        "Caption": "",
+        "AlternateText": "",
+        "FolderPath": "",
+        "FileName": ""
+      }
+    },
+    "Quality": "Epic",
+    "ManufacturerId": 0,
+    "Type": "SpartanEmblem",
+    "RewardTrack": "",
+    "ParentPaths": [],
+    "SortingMetadata": {
+      "categoryWeight": 0,
+      "subCategoryWeight": 0
+    },
+    "SeasonNumber": 3,
+    "OriginalSeasonNumber": 3,
+    "Season": {
+      "status": "Ready",
+      "value": "Season 3",
+      "translations": {}
+    }
+  }
+}

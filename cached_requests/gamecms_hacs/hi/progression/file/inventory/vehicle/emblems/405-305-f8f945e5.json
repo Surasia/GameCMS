@@ -8,7 +8,7 @@
   },
   "CommonData": {
     "Id": "405-305-f8f945e5",
-    "HideUntilOwned": false,
+    "HideUntilOwned": true,
     "Title": "Bronze Signum S3",
     "Description": "A hero rises.",
     "FeatureFlag": true,

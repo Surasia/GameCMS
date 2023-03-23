@@ -14,7 +14,7 @@
   ],
   "CommonData": {
     "Id": "104-001-csr-tier03-em-283164b5",
-    "HideUntilOwned": false,
+    "HideUntilOwned": true,
     "Title": "Platinum Signum S2",
     "Description": "A champion appears.",
     "FeatureFlag": true,

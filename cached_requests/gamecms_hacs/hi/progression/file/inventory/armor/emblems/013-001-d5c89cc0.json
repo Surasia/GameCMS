@@ -8,7 +8,7 @@
   },
   "CommonData": {
     "Id": "013-001-d5c89cc0",
-    "HideUntilOwned": false,
+    "HideUntilOwned": true,
     "Title": "Diamond Signum S2",
     "Description": "Champions thrive in the ebb and flow of a hard-fought battle.",
     "FeatureFlag": true,

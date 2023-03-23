@@ -8,7 +8,7 @@
   },
   "CommonData": {
     "Id": "405-305-8659f524",
-    "HideUntilOwned": false,
+    "HideUntilOwned": true,
     "Title": "Gold Signum S2",
     "Description": "A well-deserved award for heroic deeds.",
     "FeatureFlag": true,

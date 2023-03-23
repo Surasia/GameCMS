@@ -1,0 +1,89 @@
+{
+  "TagId": 0,
+  "ThemeName": {
+    "m_identifier": -1189441357
+  },
+  "EmblemShaderName": {
+    "m_identifier": -1
+  },
+  "AvailableConfigurations": [
+    {
+      "ConfigurationId": 746299372,
+      "ConfigurationPath": "Configuration/Emblems/Coatings/1000-000-c04ad45a.json"
+    },
+    {
+      "ConfigurationId": 1713794302,
+      "ConfigurationPath": "Configuration/Emblems/Coatings/1000-000-822de7c9.json"
+    },
+    {
+      "ConfigurationId": -1490538315,
+      "ConfigurationPath": "Configuration/Emblems/Coatings/1000-000-af628c41.json"
+    },
+    {
+      "ConfigurationId": -1405059014,
+      "ConfigurationPath": "Configuration/Emblems/Coatings/1000-000-1fa86044.json"
+    },
+    {
+      "ConfigurationId": 788380996,
+      "ConfigurationPath": "Configuration/Emblems/Coatings/1000-000-15ad6479.json"
+    }
+  ],
+  "CommonData": {
+    "Id": "104-001-dandi-winter-33bc8b98",
+    "HideUntilOwned": true,
+    "Title": "Arcus Tigers",
+    "Description": "Defenders of Earth's most important redoubts.",
+    "FeatureFlag": true,
+    "ItemAvailability": "",
+    "DateReleased": {
+      "ISO8601Date": ""
+    },
+    "AltName": "104-001-dandi-winter-33bc8b98",
+    "IconStringId": {
+      "m_identifier": -1
+    },
+    "SpriteBitmap": 0,
+    "SpriteFrameIndex": 0,
+    "AltSpriteBitmap": 0,
+    "AltSpriteFrameIndex": 0,
+    "DisplayPath": {
+      "Width": 1024,
+      "Height": 1024,
+      "Media": {
+        "MediaUrl": {
+          "AuthorityId": "",
+          "Path": "progression/Inventory/Emblems/dandi_winter_snowlep_emblem.png",
+          "RetryPolicyId": "",
+          "TopicName": "",
+          "AcknowledgementTypeId": "NoAcknowledgement",
+          "AuthenticationLifetimeExtensionSupported": false,
+          "ClearanceAware": false
+        },
+        "MimeType": "",
+        "Caption": "",
+        "AlternateText": "",
+        "FolderPath": "",
+        "FileName": ""
+      },
+      "MimeType": "image/png",
+      "FolderPath": "progression/Inventory/Emblems",
+      "FileName": "dandi_winter_snowlep_emblem.png"
+    },
+    "Quality": "Epic",
+    "ManufacturerId": 26,
+    "Type": "SpartanEmblem",
+    "RewardTrack": "",
+    "ParentPaths": [],
+    "SortingMetadata": {
+      "categoryWeight": 0,
+      "subCategoryWeight": 0
+    },
+    "SeasonNumber": 3,
+    "OriginalSeasonNumber": 3,
+    "Season": {
+      "status": "Ready",
+      "value": "Season 3",
+      "translations": {}
+    }
+  }
+}

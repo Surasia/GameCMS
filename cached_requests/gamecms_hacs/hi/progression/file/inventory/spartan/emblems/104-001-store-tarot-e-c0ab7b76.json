@@ -1,0 +1,93 @@
+{
+  "TagId": 0,
+  "ThemeName": {
+    "m_identifier": 309869325
+  },
+  "EmblemShaderName": {
+    "m_identifier": -1
+  },
+  "AvailableConfigurations": [
+    {
+      "ConfigurationId": -309176044,
+      "ConfigurationPath": "Configuration/Emblems/Coatings/1000-000-f3651b2c.json"
+    },
+    {
+      "ConfigurationId": -189240140,
+      "ConfigurationPath": "Configuration/Emblems/Coatings/1000-000-32848620.json"
+    },
+    {
+      "ConfigurationId": 802727239,
+      "ConfigurationPath": "Configuration/Emblems/Coatings/1000-000-885e047a.json"
+    },
+    {
+      "ConfigurationId": 2029654151,
+      "ConfigurationPath": "Configuration/Emblems/Coatings/1000-000-715a8962.json"
+    },
+    {
+      "ConfigurationId": -1067488777,
+      "ConfigurationPath": "Configuration/Emblems/Coatings/1000-000-72bc233a.json"
+    },
+    {
+      "ConfigurationId": 1686846439,
+      "ConfigurationPath": "Configuration/Emblems/Coatings/1000-000-b368fce2.json"
+    }
+  ],
+  "CommonData": {
+    "Id": "104-001-store-tarot-e-c0ab7b76",
+    "HideUntilOwned": true,
+    "Title": "The Emperor",
+    "Description": "Leadership and power.",
+    "FeatureFlag": true,
+    "ItemAvailability": "",
+    "DateReleased": {
+      "ISO8601Date": ""
+    },
+    "AltName": "104-001-store-tarot-e-c0ab7b76",
+    "IconStringId": {
+      "m_identifier": -1
+    },
+    "SpriteBitmap": 0,
+    "SpriteFrameIndex": 0,
+    "AltSpriteBitmap": 0,
+    "AltSpriteFrameIndex": 0,
+    "DisplayPath": {
+      "Width": 1024,
+      "Height": 1024,
+      "Media": {
+        "MediaUrl": {
+          "AuthorityId": "",
+          "Path": "progression/Inventory/Emblems/store_tarot_emperor_emblem.png",
+          "RetryPolicyId": "",
+          "TopicName": "",
+          "AcknowledgementTypeId": "NoAcknowledgement",
+          "AuthenticationLifetimeExtensionSupported": false,
+          "ClearanceAware": false
+        },
+        "MimeType": "",
+        "Caption": "",
+        "AlternateText": "",
+        "FolderPath": "",
+        "FileName": ""
+      },
+      "MimeType": "image/png",
+      "FolderPath": "progression/Inventory/Emblems",
+      "FileName": "store_tarot_emperor_emblem.png"
+    },
+    "Quality": "Legendary",
+    "ManufacturerId": 8,
+    "Type": "SpartanEmblem",
+    "RewardTrack": "",
+    "ParentPaths": [],
+    "SortingMetadata": {
+      "categoryWeight": 0,
+      "subCategoryWeight": 0
+    },
+    "SeasonNumber": 3,
+    "OriginalSeasonNumber": 3,
+    "Season": {
+      "status": "Ready",
+      "value": "Season 3",
+      "translations": {}
+    }
+  }
+}

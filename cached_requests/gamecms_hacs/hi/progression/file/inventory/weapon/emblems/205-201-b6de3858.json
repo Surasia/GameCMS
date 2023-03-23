@@ -8,7 +8,7 @@
   },
   "CommonData": {
     "Id": "205-201-b6de3858",
-    "HideUntilOwned": false,
+    "HideUntilOwned": true,
     "Title": "Platinum Signum S3",
     "Description": "A champion appears.",
     "FeatureFlag": true,

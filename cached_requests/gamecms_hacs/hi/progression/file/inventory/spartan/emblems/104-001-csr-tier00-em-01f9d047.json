@@ -14,7 +14,7 @@
   ],
   "CommonData": {
     "Id": "104-001-csr-tier00-em-01f9d047",
-    "HideUntilOwned": false,
+    "HideUntilOwned": true,
     "Title": "Bronze Signum S2",
     "Description": "A hero rises.",
     "FeatureFlag": true,

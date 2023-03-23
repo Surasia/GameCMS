@@ -1,0 +1,73 @@
+{
+  "TagId": 0,
+  "ThemeName": {
+    "m_identifier": 1330866545
+  },
+  "EmblemShaderName": {
+    "m_identifier": -1
+  },
+  "AvailableConfigurations": [
+    {
+      "ConfigurationId": -537569375,
+      "ConfigurationPath": "Configuration/Emblems/Coatings/1000-000-08e58517.json"
+    }
+  ],
+  "CommonData": {
+    "Id": "104-001-dandi-hispani-00eb049a",
+    "HideUntilOwned": true,
+    "Title": "NHHM '23",
+    "Description": "National Hispanic Heritage Month 2023.",
+    "FeatureFlag": true,
+    "ItemAvailability": "",
+    "DateReleased": {
+      "ISO8601Date": ""
+    },
+    "AltName": "104-001-dandi-hispani-00eb049a",
+    "IconStringId": {
+      "m_identifier": -1
+    },
+    "SpriteBitmap": 0,
+    "SpriteFrameIndex": 0,
+    "AltSpriteBitmap": 0,
+    "AltSpriteFrameIndex": 0,
+    "DisplayPath": {
+      "Width": 1024,
+      "Height": 1024,
+      "Media": {
+        "MediaUrl": {
+          "AuthorityId": "",
+          "Path": "progression/Inventory/Emblems/dandi_hispanicheratigemonth_outreach_emblem.png",
+          "RetryPolicyId": "",
+          "TopicName": "",
+          "AcknowledgementTypeId": "NoAcknowledgement",
+          "AuthenticationLifetimeExtensionSupported": false,
+          "ClearanceAware": false
+        },
+        "MimeType": "",
+        "Caption": "",
+        "AlternateText": "",
+        "FolderPath": "",
+        "FileName": ""
+      },
+      "MimeType": "image/png",
+      "FolderPath": "progression/Inventory/Emblems",
+      "FileName": "dandi_hispanicheratigemonth_outreach_emblem.png"
+    },
+    "Quality": "Epic",
+    "ManufacturerId": 0,
+    "Type": "SpartanEmblem",
+    "RewardTrack": "",
+    "ParentPaths": [],
+    "SortingMetadata": {
+      "categoryWeight": 0,
+      "subCategoryWeight": 0
+    },
+    "SeasonNumber": 3,
+    "OriginalSeasonNumber": 3,
+    "Season": {
+      "status": "Ready",
+      "value": "Season 3",
+      "translations": {}
+    }
+  }
+}

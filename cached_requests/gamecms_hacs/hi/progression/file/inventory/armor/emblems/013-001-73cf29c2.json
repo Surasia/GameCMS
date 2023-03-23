@@ -8,7 +8,7 @@
   },
   "CommonData": {
     "Id": "013-001-73cf29c2",
-    "HideUntilOwned": false,
+    "HideUntilOwned": true,
     "Title": "Onyx Signum S3",
     "Description": "A champion ascendant.",
     "FeatureFlag": true,

@@ -14,7 +14,7 @@
   ],
   "CommonData": {
     "Id": "104-001-csr-tier05-em-7ba00d51",
-    "HideUntilOwned": false,
+    "HideUntilOwned": true,
     "Title": "Onyx Signum S2",
     "Description": "A champion ascendant.",
     "FeatureFlag": true,

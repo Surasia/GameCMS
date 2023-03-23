@@ -8,7 +8,7 @@
   },
   "CommonData": {
     "Id": "013-001-7ba00d51",
-    "HideUntilOwned": false,
+    "HideUntilOwned": true,
     "Title": "Onyx Signum S2",
     "Description": "A champion ascendant.",
     "FeatureFlag": true,

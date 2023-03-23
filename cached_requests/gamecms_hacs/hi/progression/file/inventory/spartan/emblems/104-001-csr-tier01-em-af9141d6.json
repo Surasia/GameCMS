@@ -14,7 +14,7 @@
   ],
   "CommonData": {
     "Id": "104-001-csr-tier01-em-af9141d6",
-    "HideUntilOwned": false,
+    "HideUntilOwned": true,
     "Title": "Silver Signum S2",
     "Description": "Heroes never tire of victory.",
     "FeatureFlag": true,

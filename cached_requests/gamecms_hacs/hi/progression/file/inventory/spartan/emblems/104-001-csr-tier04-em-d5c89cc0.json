@@ -14,7 +14,7 @@
   ],
   "CommonData": {
     "Id": "104-001-csr-tier04-em-d5c89cc0",
-    "HideUntilOwned": false,
+    "HideUntilOwned": true,
     "Title": "Diamond Signum S2",
     "Description": "Champions thrive in the ebb and flow of a hard-fought battle.",
     "FeatureFlag": true,
