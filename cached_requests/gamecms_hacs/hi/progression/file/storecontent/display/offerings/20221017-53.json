@@ -1,10 +1,30 @@
 {
-  "Title": "Neon End Credits ",
-  "Description": "You can't outrun inevitability. At least, not forever.",
+  "Title": {
+    "status": "Test",
+    "value": "Neon End Credits ",
+    "translations": {
+      "qps-ploc": "\u039d\u0437\u03b8\u207f \u0401\u207f\u010f \u0108\u0433\u00ea\u010f\u012d\u0163\u015d  !!! !!",
+      "qps-ploca": "\u041b\u00e9\u01ff\u0149 \u03a3\u043b\u00f0 \u20ac\u044f\u044d\u00f0\u00ed\u03c4\u0455  !!! !!",
+      "qps-plocm": "\u0145\u0117\u00f2\u207f \u0118\u03ae\u03b4 \u00c7\u0453\u00e9\u010f\u0456\u03c4\u015b  !!! !!"
+    }
+  },
+  "Description": {
+    "status": "Test",
+    "value": "You can't outrun inevitability. At least, not forever.",
+    "translations": {
+      "qps-ploc": "\u038e\u043e\u03bc \u0441\u0103\u043b'\u03c4 \u0431\u045f\u0165\u044f\u016d\u0438 \u012b\u00f1\u011b\u03bd\u0457\u0442\u0430\u044a\u0457\u013e\u0390\u0165\u0177. \u00c4\u0163 \u0140\u00e8\u0101\u0161\u0165, \u014b\u043e\u0165 \u0192\u0431\u0159\u011b\u03bd\u0454\u044f. !!! !!! !!! !!! !!! !",
+      "qps-ploca": "\u038e\u043e\u0171 \u010b\u0430\u0438'\u0165 \u00f2\u0169\u0163\u0157\u00fb\u0144 \u00ed\u03b7\u00e9\u03bd\u00ef\u0167\u0430\u0432\u012d\u0140\u0129\u0167\u0443. \u0394\u0167 \u0142\u00eb\u0101\u015f\u0442, \u0438\u014f\u03c4 \u0192\u00f3\u0155\u00ea\u03bd\u00eb\u044f. !!! !!! !!! !!! !!! !",
+      "qps-plocm": "\u00a5\u014f\u0171 \u0109\u0101\u03c0'\u0163 \u03bf\u016d\u0442\u0155\u0169\u043b \u00ec\u0438\u0113\u03bd\u00ed\u0165\u03b1\u0432\u00ee\u013c\u00ef\u0163\u045e. \u0386\u03c4 \u013c\u212e\u00e2\u0455\u03c4, \u0149\u03b8\u0442 \u0192\u00f6\u0159\u0435\u03bd\u00e9\u0159. !!! !!! !!! !!! !!! !"
+    }
+  },
   "Quality": "Epic",
   "WidthHint": 2,
   "HeightHint": 2,
-  "FlairText": "",
+  "FlairText": {
+    "status": "Test",
+    "value": "",
+    "translations": {}
+  },
   "FlairIconPath": null,
   "FlairBackgroundPath": null,
   "ObjectImagePath": "progression/StoreContent/Offerings/Sx_Store_TEMP_2x2.png",

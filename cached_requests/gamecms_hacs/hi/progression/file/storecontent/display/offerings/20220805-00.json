@@ -1,10 +1,22 @@
 {
-  "Title": "",
-  "Description": "",
+  "Title": {
+    "status": "Test",
+    "value": "",
+    "translations": {}
+  },
+  "Description": {
+    "status": "Test",
+    "value": "",
+    "translations": {}
+  },
   "Quality": "Common",
   "WidthHint": 2,
   "HeightHint": 1,
-  "FlairText": "",
+  "FlairText": {
+    "status": "Test",
+    "value": "",
+    "translations": {}
+  },
   "FlairIconPath": null,
   "FlairBackgroundPath": null,
   "ObjectImagePath": "",

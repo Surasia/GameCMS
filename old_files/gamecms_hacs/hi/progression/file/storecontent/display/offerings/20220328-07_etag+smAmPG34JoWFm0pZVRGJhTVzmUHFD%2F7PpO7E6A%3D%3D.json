@@ -1,0 +1,12 @@
+{
+  "Title": "Mechanized Assault",
+  "Description": "Let the brass fly!",
+  "Quality": "Epic",
+  "WidthHint": 2,
+  "HeightHint": 1,
+  "FlairText": "",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "ObjectImagePath": "progression/StoreContent/Offerings/mechanized-assault.png",
+  "HasFlair": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "Season 2 Europe Collection",
+  "Description": "Bundle includes a coating for the BR75 Battle Rifle and an emblem",
+  "Quality": "Epic",
+  "WidthHint": 1,
+  "HeightHint": 1,
+  "FlairText": "",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "ObjectImagePath": "progression/Inventory/Emblems/hcs_branded_rewards_season2_eu_emblem.png",
+  "SalePercentage": null,
+  "FlairBackgroundColorOverrideRGB": null,
+  "FlairTextColorOverrideRGB": null,
+  "TitleColorOverrideRGB": null,
+  "PriceColorOverrideRGB": null,
+  "PriceShadowColorOverrideRGB": null,
+  "HasFlair": null
+}

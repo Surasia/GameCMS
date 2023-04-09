@@ -1,0 +1,35 @@
+{
+  "Title": {
+    "status": "Ready",
+    "value": "Pizza Time",
+    "translations": {}
+  },
+  "Description": {
+    "status": "Ready",
+    "value": "Slice the pie.",
+    "translations": {}
+  },
+  "Quality": "Legendary",
+  "WidthHint": 2,
+  "HeightHint": 1,
+  "FlairText": {
+    "status": "Ready",
+    "value": "DAILY",
+    "translations": {}
+  },
+  "FlairIconPath": "progression/StoreContent/FlairIcons/RitualIconFlair.png",
+  "FlairBackgroundPath": "progression/StoreContent/FlairBackgrounds/RitualBackgroundFlair.png",
+  "ObjectImagePath": "progression/StoreContent/Offerings/Sx_Store_TEMP_2x1.png",
+  "StoreTileType": "StoreOffer",
+  "HasGleam": null,
+  "IsOnSale": null,
+  "SalePercentage": null,
+  "IsEventItem": null,
+  "IsNew": true,
+  "FlairBackgroundColorOverrideRGB": null,
+  "FlairTextColorOverrideRGB": null,
+  "TitleColorOverrideRGB": null,
+  "PriceColorOverrideRGB": null,
+  "PriceShadowColorOverrideRGB": null,
+  "HasFlair": true
+}

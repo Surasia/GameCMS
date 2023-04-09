@@ -1,10 +1,52 @@
 {
-  "Title": "Gurkha Pines",
-  "Description": "Standing tall despite the winds of war.",
+  "Title": {
+    "status": "Ready",
+    "value": "Gurkha Pines",
+    "translations": {
+      "cs-CZ": "Gurkhsk\u00e9 borovice",
+      "da-DK": "Gurkha Pines",
+      "de-DE": "Gurkha-Kiefern",
+      "el-GR": "\u03a0\u03b5\u03cd\u03ba\u03b1 \u03b3\u03ba\u03bf\u03cd\u03c1\u03ba\u03b1",
+      "es-ES": "Pinos de Gurkha",
+      "es-MX": "Pinos Gurkha",
+      "fi-FI": "Gurkha-m\u00e4nnyt",
+      "fr-FR": "Sapins de Gurkhas",
+      "hu-HU": "Gurkha feny\u0151k",
+      "it-IT": "Pini gurkha",
+      "ja-JP": "\u30b0\u30eb\u30ab \u30d1\u30a4\u30f3\u30ba",
+      "ko-KR": "\uad6c\ub974\uce74 \uc18c\ub098\ubb34",
+      "nb-NO": "Gurkha-gran",
+      "nl-NL": "Gurkha-naalden",
+      "pl-PL": "Ziele\u0144 Gurkha",
+      "pt-BR": "Pinheiros Gurkha",
+      "pt-PT": "Pinheiros de Gurkha",
+      "ru-RU": "\u0413\u0440\u0430\u043d\u0430\u0442\u044b \u0433\u0443\u0440\u043a\u0445\u043e\u0432",
+      "sv-SE": "Gurkha-tallar",
+      "tr-TR": "Gurkha \u00c7am Orman\u0131",
+      "zh-CN": "\u5ed3\u5c14\u5580\u677e\u6811",
+      "zh-TW": "\u5ed3\u723e\u5580\u677e",
+      "qps-ploc": "\u0120\u03b0\u0157\u045c\u043d\u0430 \u03a1\u012b\u0149\u0454\u0161 !!! ",
+      "qps-ploca": "\u0122\u00f9\u0159\u045c\u0452\u0430 \u0420\u012d\u0438\u0435\u015f !!! ",
+      "qps-plocm": "\u0122\u00fa\u0433\u0137\u0125\u00e4 \u0420\u00ed\u0148\u0437\u015b !!! "
+    }
+  },
+  "Description": {
+    "status": "Test",
+    "value": "Standing tall despite the winds of war.",
+    "translations": {
+      "qps-ploc": "\u015a\u0165\u0105\u043f\u03b4\u00ee\u0148\u0121 \u03c4\u0103\u0142\u013e \u0111\u0117\u0161\u03c6\u0457\u03c4\u0113 \u0165\u043d\u0113 \u1e83\u0456\u03c0\u010f\u0161 \u03cc\u0192 \u0448\u00e1\u0433. !!! !!! !!! !!!",
+      "qps-ploca": "\u0405\u0167\u00e0\u0144\u0111\u0456\u0438\u0123 \u0167\u0434\u013a\u013c \u03b4\u00ea\u0455\u0440\u0390\u03c4\u0437 \u0165\u0127\u0435 \u0449\u03b9\u014b\u00f0\u015d \u01ff\u0192 \u1e81\u0103\u0159. !!! !!! !!! !!!",
+      "qps-plocm": "\u015a\u0165\u00e2\u207f\u010f\u0457\u0148\u0121 \u0442\u00e0\u2113\u013e \u00f0\u044d\u0455\u0440\u0457\u03c4\u0437 \u0163\u0452\u0115 \u0449\u00ec\u0144\u010f\u015d \u03b8\u0192 \u0448\u01fb\u0159. !!! !!! !!! !!!"
+    }
+  },
   "Quality": "Rare",
   "WidthHint": 4,
   "HeightHint": 2,
-  "FlairText": "",
+  "FlairText": {
+    "status": "Test",
+    "value": "",
+    "translations": {}
+  },
   "FlairIconPath": null,
   "FlairBackgroundPath": null,
   "ObjectImagePath": "progression/StoreContent/Offerings/s2_Gurkha_Pines.png",

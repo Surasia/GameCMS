@@ -1,0 +1,12 @@
+{
+  "Title": "Spirit",
+  "Description": "Some move on. Some stay to fight.",
+  "Quality": "Legendary",
+  "WidthHint": 2,
+  "HeightHint": 1,
+  "FlairText": "Daily",
+  "FlairIconPath": "progression/StoreContent/FlairIcons/RitualIconFlair.png",
+  "FlairBackgroundPath": "progression/StoreContent/FlairBackgrounds/RitualBackgroundFlair.png",
+  "ObjectImagePath": "progression/StoreContent/Offerings/S1_Spirit.png",
+  "HasFlair": true
+}

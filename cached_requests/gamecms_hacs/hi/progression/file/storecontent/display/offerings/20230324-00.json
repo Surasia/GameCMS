@@ -1,0 +1,35 @@
+{
+  "Title": {
+    "status": "Ready",
+    "value": "Brushtread Disruptive",
+    "translations": {}
+  },
+  "Description": {
+    "status": "Ready",
+    "value": "Drop troopers have wide discretion in their choice of camouflage patterns.",
+    "translations": {}
+  },
+  "Quality": "Epic",
+  "WidthHint": 2,
+  "HeightHint": 1,
+  "FlairText": {
+    "status": "Ready",
+    "value": "DAILY",
+    "translations": {}
+  },
+  "FlairIconPath": "progression/StoreContent/FlairIcons/RitualIconFlair.png",
+  "FlairBackgroundPath": "progression/StoreContent/FlairBackgrounds/RitualBackgroundFlair.png",
+  "ObjectImagePath": "progression/StoreContent/Offerings/2023_S3_BrushedDisruptive_Bundle_2x1.png",
+  "StoreTileType": "StoreOffer",
+  "HasGleam": null,
+  "IsOnSale": null,
+  "SalePercentage": null,
+  "IsEventItem": null,
+  "IsNew": true,
+  "FlairBackgroundColorOverrideRGB": null,
+  "FlairTextColorOverrideRGB": null,
+  "TitleColorOverrideRGB": null,
+  "PriceColorOverrideRGB": null,
+  "PriceShadowColorOverrideRGB": null,
+  "HasFlair": true
+}

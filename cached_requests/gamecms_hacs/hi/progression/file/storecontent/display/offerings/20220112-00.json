@@ -1,10 +1,30 @@
 {
-  "Title": "Optic Gaming",
-  "Description": "Bundle includes team nameplate and customization kits for the Mark VII armor and BR75 Battle Rifle",
+  "Title": {
+    "status": "Test",
+    "value": "Optic Gaming",
+    "translations": {
+      "qps-ploc": "\u00d5\u03c6\u03c4\u03b9\u0107 \u0120\u01fbm\u0456\u043b\u0123 !!! ",
+      "qps-ploca": "\u0398\u0440\u0165\u012f\u010b \u011c\u03acm\u03af\u207f\u011d !!! ",
+      "qps-plocm": "\u00d2\u0440\u0167\u012b\u00e7 \u011e\u0101\u043c\u00ec\u03c0\u0123 !!! "
+    }
+  },
+  "Description": {
+    "status": "Test",
+    "value": "Bundle includes team nameplate and customization kits for the Mark VII armor and BR75 Battle Rifle",
+    "translations": {
+      "qps-ploc": "\u0412\u0171\u0438\u03b4\u013e\u00eb \u0457\u03c0\u00a2\u013a\u016b\u010f\u0451\u015b \u0442\u0115\u01fbm \u0438\u00e3m\u0117\u0440\u0140\u01fb\u0442\u0454 \u00e4\u03c0\u00f0 \u03c2\u016d\u0161\u0163\u00f6m\u0457\u017e\u0103\u0165\u0456\u014f\u0439 \u043a\u0457\u0442\u015d \u0192\u014d\u0491 \u0442\u0125\u212e \u041c\u0101\u0155\u03ba V\u012c\u00ce \u0103\u044f\u043c\u00f2\u0159 \u00e1\u00f1\u010f \u042a\u040375 \u03b2\u0101\u0442\u03c4\u0142\u0119 \u0413\u00ef\u0192\u0142\u0454 !!! !!! !!! !!! !!! !!! !!! !!! !!! !!",
+      "qps-ploca": "\u042c\u00fb\u03b7\u0111\u013a\u011b \u00ef\u207f\u00e7\u0140\u00fa\u00f0\u00e8\u015b \u0165\u00e9\u00e0m \u207f\u03ac\u043c\u212e\u03c6\u0142\u00e1\u0167\u00e8 \u00e0\u00f1\u00f0 \u00a2\u0173\u015d\u0165\u014f\u043c\u00ef\u017c\u03ac\u0163\u0390\u00f5\u0438 \u0138\u03b9\u0442\u015b \u0192\u03bf\u0433 \u0165\u0452\u0117 \u039c\u00e1\u0159\u0137 V\u03aa\u012e \u0103\u044fm\u00f6\u0155 \u0101\u03b7\u03b4 \u042c\u039375 \u042c\u03ac\u0167\u0165\u013c\u0454 \u0403\u0456\u0192\u013a\u00eb !!! !!! !!! !!! !!! !!! !!! !!! !!! !!",
+      "qps-plocm": "\u00df\u00f9\u03c0\u0111\u013a\u0117 \u012d\u0149\u0109\u2113\u016d\u0111\u03ad\u0161 \u0442\u0451\u0103m \u043b\u0103m\u212e\u03c6\u2113\u00e0\u0442\u00ea \u0430\u0144\u010f \u010d\u00fb\u015d\u0163\u00f2m\u0390\u017c\u03ac\u0442\u00ec\u00f2\u03b7 \u0138\u03af\u0167\u015b \u0192\u00f3\u0155 \u0165\u043d\u0454 \u041c\u01fb\u044f\u0137 V\u012c\u0130 \u00e1\u0157\u043c\u00f5\u0159 \u00e2\u207f\u010f \u0412\u041375 \u0411\u03b1\u0163\u0167\u013e\u03ad \u0158\u0129\u0192\u013c\u011b !!! !!! !!! !!! !!! !!! !!! !!! !!! !!"
+    }
+  },
   "Quality": "Epic",
   "WidthHint": 2,
   "HeightHint": 1,
-  "FlairText": "",
+  "FlairText": {
+    "status": "Test",
+    "value": "",
+    "translations": {}
+  },
   "FlairIconPath": null,
   "FlairBackgroundPath": null,
   "ObjectImagePath": "progression/StoreContent/Offerings/007-000-optic_temp.png",

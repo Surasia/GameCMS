@@ -1,0 +1,35 @@
+{
+  "Title": {
+    "status": "Ready",
+    "value": "Epsilon Autumn Armor",
+    "translations": {}
+  },
+  "Description": {
+    "status": "Ready",
+    "value": "Old troubles, new wars.",
+    "translations": {}
+  },
+  "Quality": "Epic",
+  "WidthHint": 2,
+  "HeightHint": 2,
+  "FlairText": {
+    "status": "Test",
+    "value": "",
+    "translations": {}
+  },
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "ObjectImagePath": "progression/StoreContent/Offerings/2023_S3_EpsilonAutumnArmor_Bundle_2x2.png",
+  "StoreTileType": "StoreOffer",
+  "HasGleam": null,
+  "IsOnSale": null,
+  "SalePercentage": null,
+  "IsEventItem": null,
+  "IsNew": true,
+  "FlairBackgroundColorOverrideRGB": null,
+  "FlairTextColorOverrideRGB": null,
+  "TitleColorOverrideRGB": null,
+  "PriceColorOverrideRGB": null,
+  "PriceShadowColorOverrideRGB": null,
+  "HasFlair": null
+}

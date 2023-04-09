@@ -61,10 +61,10 @@
       "categoryWeight": 0,
       "subCategoryWeight": 0
     },
-    "SeasonNumber": 2,
-    "OriginalSeasonNumber": 2,
+    "SeasonNumber": 3,
+    "OriginalSeasonNumber": 3,
     "Season": {
-      "status": "Test",
+      "status": "Ready",
       "value": "Season 3",
       "translations": {}
     }

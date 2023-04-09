@@ -1,0 +1,12 @@
+{
+  "Title": "Shattered Cherry",
+  "Description": "Sink your teeth into this one.",
+  "Quality": "Common",
+  "WidthHint": 2,
+  "HeightHint": 1,
+  "FlairText": "Daily",
+  "FlairIconPath": "progression/StoreContent/FlairIcons/RitualIconFlair.png",
+  "FlairBackgroundPath": "progression/StoreContent/FlairBackgrounds/RitualBackgroundFlair.png",
+  "ObjectImagePath": "",
+  "HasFlair": true
+}

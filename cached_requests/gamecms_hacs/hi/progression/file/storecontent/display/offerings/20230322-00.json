@@ -1,0 +1,35 @@
+{
+  "Title": {
+    "status": "Ready",
+    "value": "Epsilon Autumn Weapons",
+    "translations": {}
+  },
+  "Description": {
+    "status": "Ready",
+    "value": "Old troubles, new wars.",
+    "translations": {}
+  },
+  "Quality": "Epic",
+  "WidthHint": 2,
+  "HeightHint": 2,
+  "FlairText": {
+    "status": "Ready",
+    "value": "NEW",
+    "translations": {}
+  },
+  "FlairIconPath": "progression/StoreContent/FlairIcons/RitualIconFlair.png",
+  "FlairBackgroundPath": "progression/StoreContent/FlairBackgrounds/RitualBackgroundFlair.png",
+  "ObjectImagePath": "progression/StoreContent/Offerings/2023_S3_EpsilonAutumnWeapons_Bundle_2x2.png",
+  "StoreTileType": "StoreOffer",
+  "HasGleam": null,
+  "IsOnSale": null,
+  "SalePercentage": null,
+  "IsEventItem": null,
+  "IsNew": true,
+  "FlairBackgroundColorOverrideRGB": null,
+  "FlairTextColorOverrideRGB": null,
+  "TitleColorOverrideRGB": null,
+  "PriceColorOverrideRGB": null,
+  "PriceShadowColorOverrideRGB": null,
+  "HasFlair": true
+}

@@ -1,10 +1,30 @@
 {
-  "Title": "Neon Super Bundle",
-  "Description": "Includes the Neon Superfly, Neon Beat, and Neon End Credits bundles! Best Value.",
+  "Title": {
+    "status": "Test",
+    "value": "Neon Super Bundle",
+    "translations": {
+      "qps-ploc": "\u0143\u212e\u0431\u00f1 \u015c\u03c5\u03c1\u0451\u0453 \u0412\u00fb\u0438\u00f0\u013a\u0119 !!! !!",
+      "qps-ploca": "\u041f\u0117\u03b8\u03ae \u015c\u016d\u0440\u011b\u0155 \u0392\u0171\u03b7\u010f\u013e\u03b5 !!! !!",
+      "qps-plocm": "\u220f\u00ea\u043e\u0148 \u015e\u0446\u03c1\u0454\u0157 \u0412\u045f\u207f\u010f\u013e\u0119 !!! !!"
+    }
+  },
+  "Description": {
+    "status": "Test",
+    "value": "Includes the Neon Superfly, Neon Beat, and Neon End Credits bundles! Best Value.",
+    "translations": {
+      "qps-ploc": "\u0406\u207f\u00a2\u013c\u016f\u0111\u0451\u0455 \u0442\u045b\u00e8 \u0143\u00e9\u014f\u03c0 \u015c\u00b5\u0440\u03b5\u0155\u0192\u0142\u00ff, \u00d1\u0435\u014f\u0438 \u0392\u0435\u00e3\u0442, \u0434\u043b\u00f0 \u041b\u0119\u00f8\u0144 \u0116\u0439\u00f0 \u20ac\u044f\u0119\u010f\u0456\u0442\u015d \u044c\u045f\u043f\u010f\u0142\u044d\u015d! \u0392\u00e8\u015b\u0167 V\u00aa\u013e\u03b0\u00e8. !!! !!! !!! !!! !!! !!! !!! !!!",
+      "qps-ploca": "\u0407\u03c0\u010d\u013a\u00fa\u00f0\u00ea\u0161 \u0163\u045b\u212e \u220f\u0454\u00f2\u0144 \u015e\u03b0\u03c1\u0117\u0157\u0192\u013e\u045e, \u220f\u00e9\u00f3\u0148 \u0411\u0435\u00aa\u0165, \u00aa\u00f1\u0111 \u0418\u03b5\u03cc\u0144 \u0388\u043f\u010f \u010c\u0159\u0119\u03b4\u0457\u0163\u015d \u044c\u03c5\u0149\u0111\u2113\u0119\u015f! \u0412\u0451\u0455\u0442 V\u00aa\u013e\u00fc\u0115. !!! !!! !!! !!! !!! !!! !!! !!!",
+      "qps-plocm": "\u0407\u0149\u0107\u0142\u0171\u0111\u03b5\u015b \u0165\u0125\u00eb \u0143\u0437\u0431\u0144 \u015e\u00fb\u03c6\u0451\u0155\u0192\u2113\u03b3, \u041b\u03b5\u03cc\u043f \u03b2\u0119\u03b1\u0163, \u0101\u03c0\u010f \u0419\u00e8\u014f\u0149 \u00cb\u0144\u0111 \u0108\u0453\u0435\u03b4\u012b\u0442\u015b \u0432\u016b\u0148\u00f0\u2113\u0454\u015d! \u0411\u0117\u015f\u0163 V\u03ac\u013c\u0169\u03b5. !!! !!! !!! !!! !!! !!! !!! !!!"
+    }
+  },
   "Quality": "Legendary",
   "WidthHint": 2,
   "HeightHint": 4,
-  "FlairText": "",
+  "FlairText": {
+    "status": "Test",
+    "value": "",
+    "translations": {}
+  },
   "FlairIconPath": null,
   "FlairBackgroundPath": null,
   "ObjectImagePath": "progression/StoreContent/Offerings/Sx_Store_TEMP_4x2.png",

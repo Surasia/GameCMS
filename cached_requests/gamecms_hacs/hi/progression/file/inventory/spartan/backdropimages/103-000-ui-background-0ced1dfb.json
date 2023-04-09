@@ -1,0 +1,77 @@
+{
+  "ImagePath": {
+    "Width": 0,
+    "Height": 0,
+    "Media": {
+      "MediaUrl": {
+        "AuthorityId": "",
+        "Path": "Progression/Backgrounds/ui_background_s3_dandisnowflake.png",
+        "RetryPolicyId": "",
+        "TopicName": "",
+        "AcknowledgementTypeId": "NoAcknowledgement",
+        "AuthenticationLifetimeExtensionSupported": false,
+        "ClearanceAware": false
+      },
+      "MimeType": "",
+      "Caption": "",
+      "AlternateText": "",
+      "FolderPath": "",
+      "FileName": ""
+    }
+  },
+  "CommonData": {
+    "Id": "103-000-ui-background-0ced1dfb",
+    "HideUntilOwned": true,
+    "Title": "ui_background_s3_dandisnowflake.png",
+    "Description": "ui_background_s3_dandisnowflake.png",
+    "FeatureFlag": true,
+    "ItemAvailability": "",
+    "DateReleased": {
+      "ISO8601Date": ""
+    },
+    "AltName": "ui_background_s3_dandisnowflake.png",
+    "IconStringId": {
+      "m_identifier": -1
+    },
+    "SpriteBitmap": 0,
+    "SpriteFrameIndex": 0,
+    "AltSpriteBitmap": 0,
+    "AltSpriteFrameIndex": 0,
+    "DisplayPath": {
+      "Width": 0,
+      "Height": 0,
+      "Media": {
+        "MediaUrl": {
+          "AuthorityId": "",
+          "Path": "",
+          "RetryPolicyId": "",
+          "TopicName": "",
+          "AcknowledgementTypeId": "NoAcknowledgement",
+          "AuthenticationLifetimeExtensionSupported": false,
+          "ClearanceAware": false
+        },
+        "MimeType": "",
+        "Caption": "",
+        "AlternateText": "",
+        "FolderPath": "",
+        "FileName": ""
+      }
+    },
+    "Quality": "Common",
+    "ManufacturerId": 0,
+    "Type": "SpartanBackdropImage",
+    "RewardTrack": "",
+    "ParentPaths": [],
+    "SortingMetadata": {
+      "categoryWeight": 0,
+      "subCategoryWeight": 0
+    },
+    "SeasonNumber": 3,
+    "OriginalSeasonNumber": 3,
+    "Season": {
+      "status": "Test",
+      "value": "",
+      "translations": {}
+    }
+  }
+}

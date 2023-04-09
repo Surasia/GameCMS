@@ -1,0 +1,12 @@
+{
+  "Title": "HaloMan",
+  "Description": "Doesn't afraid of anything.",
+  "Quality": "Rare",
+  "WidthHint": 2,
+  "HeightHint": 1,
+  "FlairText": "",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "ObjectImagePath": "progression/StoreContent/Offerings/s2_HaloMan.png",
+  "HasFlair": false
+}

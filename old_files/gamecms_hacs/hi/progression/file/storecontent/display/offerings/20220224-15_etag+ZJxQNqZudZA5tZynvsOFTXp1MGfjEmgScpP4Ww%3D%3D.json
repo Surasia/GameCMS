@@ -1,0 +1,12 @@
+{
+  "Title": "War Master Armor Set",
+  "Description": "Armor to deliver ordnance support to frontline engagements.",
+  "Quality": "Legendary",
+  "WidthHint": 2,
+  "HeightHint": 4,
+  "FlairText": "",
+  "FlairIconPath": null,
+  "FlairBackgroundPath": null,
+  "ObjectImagePath": "progression/StoreContent/Offerings/armor_set_war_master.png",
+  "HasFlair": null
+}

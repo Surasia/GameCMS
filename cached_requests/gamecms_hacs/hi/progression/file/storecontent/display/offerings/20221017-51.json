@@ -1,10 +1,30 @@
 {
-  "Title": "Doom & Bloom ",
-  "Description": "They're all perfect.",
+  "Title": {
+    "status": "Test",
+    "value": "Doom & Bloom ",
+    "translations": {
+      "qps-ploc": "\u010e\u00f4\u03b8m & \u042c\u013c\u00f8\u03b8\u043c  !!! ",
+      "qps-ploca": "\u010e\u01ff\u00f6\u043c & \u042a\u013e\u03bf\u00f8\u043c  !!! ",
+      "qps-plocm": "\u00d0\u043e\u00f5\u043c & \u042c\u013e\u03cc\u0431\u043c  !!! "
+    }
+  },
+  "Description": {
+    "status": "Test",
+    "value": "They're all perfect.",
+    "translations": {
+      "qps-ploc": "\u0166\u0125\u00ea\u00fd'\u0453\u03b5 \u0430\u2113\u2113 \u03c6\u0435\u0159\u0192\u00e9\u010b\u0165. !!! !!!",
+      "qps-ploca": "\u0164\u043d\u00ea\u1ef3'\u0433\u0437 \u00e0\u013a\u0140 \u03c1\u03ad\u0157\u0192\u0117\u00a2\u0163. !!! !!!",
+      "qps-plocm": "\u0422\u0452\u0119\u03b3'\u0155\u0117 \u00e5\u0142\u013e \u0440\u00ea\u0453\u0192\u00e9\u010d\u0167. !!! !!!"
+    }
+  },
   "Quality": "Epic",
   "WidthHint": 2,
   "HeightHint": 2,
-  "FlairText": "",
+  "FlairText": {
+    "status": "Test",
+    "value": "",
+    "translations": {}
+  },
   "FlairIconPath": null,
   "FlairBackgroundPath": null,
   "ObjectImagePath": "progression/StoreContent/Offerings/Sx_Store_TEMP_2x2.png",

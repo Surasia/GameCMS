@@ -1,0 +1,80 @@
+{
+  "ImagePath": {
+    "Width": 0,
+    "Height": 0,
+    "Media": {
+      "MediaUrl": {
+        "AuthorityId": "",
+        "Path": "Progression/Backgrounds/ui_s2_background_jointfire2.png",
+        "RetryPolicyId": "",
+        "TopicName": "",
+        "AcknowledgementTypeId": "NoAcknowledgement",
+        "AuthenticationLifetimeExtensionSupported": false,
+        "ClearanceAware": false
+      },
+      "MimeType": "",
+      "Caption": "",
+      "AlternateText": "",
+      "FolderPath": "",
+      "FileName": ""
+    }
+  },
+  "CommonData": {
+    "Id": "103-000-ui-s2-backgro-cc8e94a7",
+    "HideUntilOwned": true,
+    "Title": "ui_s2_background_jointfire2.png",
+    "Description": "ui_s2_background_jointfire2.png",
+    "FeatureFlag": true,
+    "ItemAvailability": "",
+    "DateReleased": {
+      "ISO8601Date": ""
+    },
+    "AltName": "ui_s2_background_jointfire2.png",
+    "IconStringId": {
+      "m_identifier": -1
+    },
+    "SpriteBitmap": 0,
+    "SpriteFrameIndex": 0,
+    "AltSpriteBitmap": 0,
+    "AltSpriteFrameIndex": 0,
+    "DisplayPath": {
+      "Width": 580,
+      "Height": 450,
+      "Media": {
+        "MediaUrl": {
+          "AuthorityId": "",
+          "Path": "progression/Inventory/Spartan/BackdropImages/103-000-ui-s2-backgro-cc8e94a7.png",
+          "RetryPolicyId": "",
+          "TopicName": "",
+          "AcknowledgementTypeId": "NoAcknowledgement",
+          "AuthenticationLifetimeExtensionSupported": false,
+          "ClearanceAware": false
+        },
+        "MimeType": "",
+        "Caption": "",
+        "AlternateText": "",
+        "FolderPath": "",
+        "FileName": ""
+      },
+      "MimeType": "image/png",
+      "FolderPath": "progression/Inventory/Spartan/BackdropImages",
+      "FileName": "103-000-ui-s2-backgro-cc8e94a7.png"
+    },
+    "Quality": "Common",
+    "ManufacturerId": 0,
+    "Type": "SpartanBackdropImage",
+    "RewardTrack": "",
+    "ParentPaths": [],
+    "SortingMetadata": {
+      "categoryWeight": 0,
+      "subCategoryWeight": 0
+    },
+    "SeasonNumber": 2,
+    "OriginalSeasonNumber": 2,
+    "Season": {
+      "status": "Test",
+      "value": "",
+      "translations": {}
+    }
+  }
+}
